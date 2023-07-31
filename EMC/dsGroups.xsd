@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsGroups" targetNamespace="http://tempuri.org/dsGroups.xsd" xmlns:mstns="http://tempuri.org/dsGroups.xsd" xmlns="http://tempuri.org/dsGroups.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsGroups" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsGroups" msprop:Generator_UserDSName="dsGroups">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="group" msprop:Generator_TableClassName="groupDataTable" msprop:Generator_TableVarName="tablegroup" msprop:Generator_TablePropName="group" msprop:Generator_RowDeletingName="groupRowDeleting" msprop:Generator_RowChangingName="groupRowChanging" msprop:Generator_RowEvHandlerName="groupRowChangeEventHandler" msprop:Generator_RowDeletedName="groupRowDeleted" msprop:Generator_UserTableName="group" msprop:Generator_RowChangedName="groupRowChanged" msprop:Generator_RowEvArgName="groupRowChangeEvent" msprop:Generator_RowClassName="groupRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="idGroug" msprop:Generator_ColumnVarNameInTable="columnidGroug" msprop:Generator_ColumnPropNameInRow="idGroug" msprop:Generator_ColumnPropNameInTable="idGrougColumn" msprop:Generator_UserColumnName="idGroug" type="xs:int" />
+              <xs:element name="nameGroup" msprop:Generator_ColumnVarNameInTable="columnnameGroup" msprop:Generator_ColumnPropNameInRow="nameGroup" msprop:Generator_ColumnPropNameInTable="nameGroupColumn" msprop:Generator_UserColumnName="nameGroup" type="xs:string" />
+              <xs:element name="semestrStart" msdata:DataType="System.DateTimeOffset" msprop:Generator_ColumnVarNameInTable="columnsemestrStart" msprop:Generator_ColumnPropNameInRow="semestrStart" msprop:Generator_ColumnPropNameInTable="semestrStartColumn" msprop:Generator_UserColumnName="semestrStart" type="xs:anyType" />
+              <xs:element name="semestrEnd" msdata:DataType="System.DateTimeOffset" msprop:Generator_ColumnVarNameInTable="columnsemestrEnd" msprop:Generator_ColumnPropNameInRow="semestrEnd" msprop:Generator_ColumnPropNameInTable="semestrEndColumn" msprop:Generator_UserColumnName="semestrEnd" type="xs:anyType" />
+              <xs:element name="schedule" msprop:Generator_ColumnVarNameInTable="columnschedule" msprop:Generator_ColumnPropNameInRow="schedule" msprop:Generator_ColumnPropNameInTable="scheduleColumn" msprop:Generator_UserColumnName="schedule" type="xs:string" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="practice" msprop:Generator_TableClassName="practiceDataTable" msprop:Generator_TableVarName="tablepractice" msprop:Generator_TablePropName="practice" msprop:Generator_RowDeletingName="practiceRowDeleting" msprop:Generator_RowChangingName="practiceRowChanging" msprop:Generator_RowEvHandlerName="practiceRowChangeEventHandler" msprop:Generator_RowDeletedName="practiceRowDeleted" msprop:Generator_UserTableName="practice" msprop:Generator_RowChangedName="practiceRowChanged" msprop:Generator_RowEvArgName="practiceRowChangeEvent" msprop:Generator_RowClassName="practiceRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="idPract" msprop:Generator_ColumnVarNameInTable="columnidPract" msprop:Generator_ColumnPropNameInRow="idPract" msprop:Generator_ColumnPropNameInTable="idPractColumn" msprop:Generator_UserColumnName="idPract" type="xs:int" />
+              <xs:element name="idGroup" msprop:Generator_ColumnVarNameInTable="columnidGroup" msprop:Generator_ColumnPropNameInRow="idGroup" msprop:Generator_ColumnPropNameInTable="idGroupColumn" msprop:Generator_UserColumnName="idGroup" type="xs:int" />
+              <xs:element name="practStart" msdata:DataType="System.DateTimeOffset" msprop:Generator_ColumnVarNameInTable="columnpractStart" msprop:Generator_ColumnPropNameInRow="practStart" msprop:Generator_ColumnPropNameInTable="practStartColumn" msprop:Generator_UserColumnName="practStart" type="xs:anyType" minOccurs="0" />
+              <xs:element name="practEnd" msdata:DataType="System.DateTimeOffset" msprop:Generator_ColumnVarNameInTable="columnpractEnd" msprop:Generator_ColumnPropNameInRow="practEnd" msprop:Generator_ColumnPropNameInTable="practEndColumn" msprop:Generator_UserColumnName="practEnd" type="xs:anyType" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="groupKey1">
+      <xs:selector xpath=".//mstns:group" />
+      <xs:field xpath="mstns:idGroug" />
+    </xs:unique>
+    <xs:unique name="practiceKey1">
+      <xs:selector xpath=".//mstns:practice" />
+      <xs:field xpath="mstns:idPract" />
+      <xs:field xpath="mstns:idGroup" />
+    </xs:unique>
+    <xs:keyref name="FK_group_practice" refer="groupKey1" msprop:rel_Generator_UserChildTable="practice" msprop:rel_Generator_ChildPropName="GetpracticeRows" msprop:rel_Generator_UserRelationName="FK_group_practice" msprop:rel_Generator_ParentPropName="groupRow" msprop:rel_Generator_RelationVarName="relationFK_group_practice" msprop:rel_Generator_UserParentTable="group" msdata:DeleteRule="None">
+      <xs:selector xpath=".//mstns:practice" />
+      <xs:field xpath="mstns:idGroup" />
+    </xs:keyref>
+  </xs:element>
+</xs:schema>

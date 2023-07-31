@@ -1,0 +1,349 @@
+C:\Users\Владимир\Desktop\MDIemc\EMC\EMC\bin\Debug\EMC.exe
+C:\Users\Владимир\Desktop\MDIemc\EMC\EMC\bin\Debug\EMC.pdb
+C:\Users\Владимир\Desktop\MDIemc\EMC\EMC\obj\Debug\EMC.csprojResolveAssemblyReference.cache
+C:\Users\Владимир\Desktop\MDIemc\EMC\EMC\obj\Debug\EMC.FormMain.resources
+C:\Users\Владимир\Desktop\MDIemc\EMC\EMC\obj\Debug\EMC.Properties.Resources.resources
+C:\Users\Владимир\Desktop\MDIemc\EMC\EMC\obj\Debug\EMC.csproj.GenerateResource.Cache
+C:\Users\Владимир\Desktop\MDIemc\EMC\EMC\obj\Debug\EMC.exe
+C:\Users\Владимир\Desktop\MDIemc\EMC\EMC\obj\Debug\EMC.pdb
+C:\Users\Владимир\Desktop\MDIemc\EMC\EMC\obj\Debug\EMC.FormFGOS.resources
+C:\Users\Владимир\Desktop\MDIemc\EMC\EMC\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\Владимир\Desktop\MDIemc\EMC\EMC\bin\Debug\office.dll
+C:\Users\Владимир\Desktop\MDIemc\EMC\EMC\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Владимир\Desktop\MDIemc\EMC\EMC\bin\Debug\stdole.dll
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ\EMC\EMC\bin\Debug\EMC.exe
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ\EMC\EMC\bin\Debug\EMC.pdb
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ\EMC\EMC\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ\EMC\EMC\bin\Debug\office.dll
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ\EMC\EMC\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ\EMC\EMC\bin\Debug\stdole.dll
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ\EMC\EMC\obj\Debug\EMC.FormEditPM.resources
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ\EMC\EMC\obj\Debug\EMC.FormCyclicCommissions.resources
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ\EMC\EMC\obj\Debug\EMC.FormFGOS.resources
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ\EMC\EMC\obj\Debug\EMC.FormMain.resources
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ\EMC\EMC\obj\Debug\EMC.FormProgram.resources
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ\EMC\EMC\obj\Debug\EMC.FormProgressBar.resources
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ\EMC\EMC\obj\Debug\EMC.FormThemes.resources
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ\EMC\EMC\obj\Debug\EMC.Properties.Resources.resources
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ\EMC\EMC\obj\Debug\EMC.csproj.GenerateResource.Cache
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ\EMC\EMC\obj\Debug\EMC.exe
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ\EMC\EMC\obj\Debug\EMC.pdb
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ — копия\EMC\EMC\obj\Debug\EMC.exe
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ — копия\EMC\EMC\obj\Debug\EMC.pdb
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ — копия\EMC\EMC\bin\Debug\EMC.exe
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ — копия\EMC\EMC\bin\Debug\EMC.pdb
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ — копия\EMC\EMC\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ — копия\EMC\EMC\bin\Debug\office.dll
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ — копия\EMC\EMC\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ — копия\EMC\EMC\bin\Debug\stdole.dll
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ — копия\EMC\EMC\obj\Debug\EMC.FormEditPM.resources
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ — копия\EMC\EMC\obj\Debug\EMC.FormCyclicCommissions.resources
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ — копия\EMC\EMC\obj\Debug\EMC.FormFGOS.resources
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ — копия\EMC\EMC\obj\Debug\EMC.FormMain.resources
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ — копия\EMC\EMC\obj\Debug\EMC.FormProgram.resources
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ — копия\EMC\EMC\obj\Debug\EMC.FormProgressBar.resources
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ — копия\EMC\EMC\obj\Debug\EMC.FormThemes.resources
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ — копия\EMC\EMC\obj\Debug\EMC.Properties.Resources.resources
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ — копия\EMC\EMC\obj\Debug\EMC.csproj.GenerateResource.Cache
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ — копия\EMC\EMC\obj\Debug\EMC.FormCTP.resources
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ — копия\EMC\EMC\obj\Debug\EMC.FormGroups.resources
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ — копия\EMC\EMC\obj\Debug\EMC.FormCelebrations.resources
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ — копия\EMC\EMC\obj\Debug\EMC.csprojResolveAssemblyReference.cache
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ\EMC\EMC\obj\Debug\EMC.FormCTP.resources
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ\EMC\EMC\obj\Debug\EMC.FormGroups.resources
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ\EMC\EMC\obj\Debug\EMC.FormCelebrations.resources
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ — копия (2)\EMC\EMC\obj\Debug\EMC.exe
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ — копия (2)\EMC\EMC\obj\Debug\EMC.pdb
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ — копия (2)\EMC\EMC\bin\Debug\EMC.exe
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ — копия (2)\EMC\EMC\bin\Debug\EMC.pdb
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ — копия (2)\EMC\EMC\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ — копия (2)\EMC\EMC\bin\Debug\office.dll
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ — копия (2)\EMC\EMC\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ — копия (2)\EMC\EMC\bin\Debug\stdole.dll
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ — копия (2)\EMC\EMC\obj\Debug\EMC.csprojResolveAssemblyReference.cache
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ — копия (2)\EMC\EMC\obj\Debug\EMC.FormCTP.resources
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ — копия (2)\EMC\EMC\obj\Debug\EMC.FormGroups.resources
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ — копия (2)\EMC\EMC\obj\Debug\EMC.FormCelebrations.resources
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ — копия (2)\EMC\EMC\obj\Debug\EMC.FormEditPM.resources
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ — копия (2)\EMC\EMC\obj\Debug\EMC.FormCyclicCommissions.resources
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ — копия (2)\EMC\EMC\obj\Debug\EMC.FormFGOS.resources
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ — копия (2)\EMC\EMC\obj\Debug\EMC.FormMain.resources
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ — копия (2)\EMC\EMC\obj\Debug\EMC.FormProgram.resources
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ — копия (2)\EMC\EMC\obj\Debug\EMC.FormProgressBar.resources
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ — копия (2)\EMC\EMC\obj\Debug\EMC.FormThemes.resources
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ — копия (2)\EMC\EMC\obj\Debug\EMC.Properties.Resources.resources
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ — копия (2)\EMC\EMC\obj\Debug\EMC.csproj.GenerateResource.Cache
+C:\Users\Маргарита\Desktop\ДИПЛОМ MDI - ФОРМЫ\EMC\EMC\obj\Debug\EMC.csprojResolveAssemblyReference.cache
+C:\Users\Reizoky\Desktop\ДИПЛОМ MDI - ФОРМЫ\EMC\EMC\bin\Debug\EMC.exe
+C:\Users\Reizoky\Desktop\ДИПЛОМ MDI - ФОРМЫ\EMC\EMC\bin\Debug\EMC.pdb
+C:\Users\Reizoky\Desktop\ДИПЛОМ MDI - ФОРМЫ\EMC\EMC\bin\Debug\office.dll
+C:\Users\Reizoky\Desktop\ДИПЛОМ MDI - ФОРМЫ\EMC\EMC\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Reizoky\Desktop\ДИПЛОМ MDI - ФОРМЫ\EMC\EMC\bin\Debug\stdole.dll
+C:\Users\Reizoky\Desktop\ДИПЛОМ MDI - ФОРМЫ\EMC\EMC\obj\Debug\EMC.csprojResolveAssemblyReference.cache
+C:\Users\Reizoky\Desktop\ДИПЛОМ MDI - ФОРМЫ\EMC\EMC\obj\Debug\EMC.FormCTP.resources
+C:\Users\Reizoky\Desktop\ДИПЛОМ MDI - ФОРМЫ\EMC\EMC\obj\Debug\EMC.FormGroups.resources
+C:\Users\Reizoky\Desktop\ДИПЛОМ MDI - ФОРМЫ\EMC\EMC\obj\Debug\EMC.FormCelebrations.resources
+C:\Users\Reizoky\Desktop\ДИПЛОМ MDI - ФОРМЫ\EMC\EMC\obj\Debug\EMC.FormEditPM.resources
+C:\Users\Reizoky\Desktop\ДИПЛОМ MDI - ФОРМЫ\EMC\EMC\obj\Debug\EMC.FormCyclicCommissions.resources
+C:\Users\Reizoky\Desktop\ДИПЛОМ MDI - ФОРМЫ\EMC\EMC\obj\Debug\EMC.FormFGOS.resources
+C:\Users\Reizoky\Desktop\ДИПЛОМ MDI - ФОРМЫ\EMC\EMC\obj\Debug\EMC.FormMain.resources
+C:\Users\Reizoky\Desktop\ДИПЛОМ MDI - ФОРМЫ\EMC\EMC\obj\Debug\EMC.FormProgram.resources
+C:\Users\Reizoky\Desktop\ДИПЛОМ MDI - ФОРМЫ\EMC\EMC\obj\Debug\EMC.FormProgressBar.resources
+C:\Users\Reizoky\Desktop\ДИПЛОМ MDI - ФОРМЫ\EMC\EMC\obj\Debug\EMC.FormThemes.resources
+C:\Users\Reizoky\Desktop\ДИПЛОМ MDI - ФОРМЫ\EMC\EMC\obj\Debug\EMC.Properties.Resources.resources
+C:\Users\Reizoky\Desktop\ДИПЛОМ MDI - ФОРМЫ\EMC\EMC\obj\Debug\EMC.csproj.GenerateResource.Cache
+C:\Users\Reizoky\Desktop\ДИПЛОМ MDI - ФОРМЫ\EMC\EMC\obj\Debug\EMC.csproj.CoreCompileInputs.cache
+C:\Users\Reizoky\Desktop\ДИПЛОМ MDI - ФОРМЫ\EMC\EMC\obj\Debug\EMC.exe
+C:\Users\Reizoky\Desktop\ДИПЛОМ MDI - ФОРМЫ\EMC\EMC\obj\Debug\EMC.pdb
+C:\Users\Reizoky\Desktop\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\bin\Debug\EMC.exe
+C:\Users\Reizoky\Desktop\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\bin\Debug\EMC.pdb
+C:\Users\Reizoky\Desktop\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.csprojResolveAssemblyReference.cache
+C:\Users\Reizoky\Desktop\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.FormCTP.resources
+C:\Users\Reizoky\Desktop\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.FormGroups.resources
+C:\Users\Reizoky\Desktop\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.FormCelebrations.resources
+C:\Users\Reizoky\Desktop\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.FormEditPM.resources
+C:\Users\Reizoky\Desktop\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.FormCyclicCommissions.resources
+C:\Users\Reizoky\Desktop\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.FormFGOS.resources
+C:\Users\Reizoky\Desktop\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.FormMain.resources
+C:\Users\Reizoky\Desktop\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.FormProgram.resources
+C:\Users\Reizoky\Desktop\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.FormProgressBar.resources
+C:\Users\Reizoky\Desktop\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.FormThemes.resources
+C:\Users\Reizoky\Desktop\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.Properties.Resources.resources
+C:\Users\Reizoky\Desktop\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.csproj.GenerateResource.Cache
+C:\Users\Reizoky\Desktop\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.csproj.CoreCompileInputs.cache
+C:\Users\Reizoky\Desktop\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.exe
+C:\Users\Reizoky\Desktop\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.pdb
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\bin\Debug\EMC.exe
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\bin\Debug\EMC.pdb
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.FormCTP.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.FormGroups.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.FormCelebrations.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.FormEditPM.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.FormCyclicCommissions.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.FormFGOS.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.FormMain.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.FormProgram.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.FormProgressBar.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.FormThemes.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.Properties.Resources.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.csproj.GenerateResource.Cache
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.csproj.CoreCompileInputs.cache
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.exe
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.pdb
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\bin\Debug\EMC.exe.config
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\Понижение\EMC\EMC\bin\Debug\EMC.exe.config
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\Понижение\EMC\EMC\bin\Debug\EMC.exe
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\Понижение\EMC\EMC\bin\Debug\EMC.pdb
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\Понижение\EMC\EMC\obj\Debug\EMC.csprojResolveAssemblyReference.cache
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\Понижение\EMC\EMC\obj\Debug\EMC.FormCTP.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\Понижение\EMC\EMC\obj\Debug\EMC.FormGroups.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\Понижение\EMC\EMC\obj\Debug\EMC.FormCelebrations.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\Понижение\EMC\EMC\obj\Debug\EMC.FormEditPM.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\Понижение\EMC\EMC\obj\Debug\EMC.FormCyclicCommissions.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\Понижение\EMC\EMC\obj\Debug\EMC.FormFGOS.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\Понижение\EMC\EMC\obj\Debug\EMC.FormMain.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\Понижение\EMC\EMC\obj\Debug\EMC.FormProgram.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\Понижение\EMC\EMC\obj\Debug\EMC.FormProgressBar.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\Понижение\EMC\EMC\obj\Debug\EMC.FormThemes.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\Понижение\EMC\EMC\obj\Debug\EMC.frmPKTest.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\Понижение\EMC\EMC\obj\Debug\EMC.frmTestFillTable.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\Понижение\EMC\EMC\obj\Debug\EMC.Properties.Resources.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\Понижение\EMC\EMC\obj\Debug\EMC.csproj.GenerateResource.Cache
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\Понижение\EMC\EMC\obj\Debug\EMC.csproj.CoreCompileInputs.cache
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\Понижение\EMC\EMC\obj\Debug\EMC.exe
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\Понижение\EMC\EMC\obj\Debug\EMC.pdb
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.csprojResolveAssemblyReference.cache
+C:\Users\Reizoky\Desktop\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\bin\Debug\EMC.exe.config
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.frmSettings.resources
+C:\Users\Reizoky\Desktop\тест\ДИПЛОМ MDI - ФОРМЫ(редактируемая)1231231\EMC\EMC\bin\Debug\EMC.exe.config
+C:\Users\Reizoky\Desktop\тест\ДИПЛОМ MDI - ФОРМЫ(редактируемая)1231231\EMC\EMC\bin\Debug\EMC.exe
+C:\Users\Reizoky\Desktop\тест\ДИПЛОМ MDI - ФОРМЫ(редактируемая)1231231\EMC\EMC\bin\Debug\EMC.pdb
+C:\Users\Reizoky\Desktop\тест\ДИПЛОМ MDI - ФОРМЫ(редактируемая)1231231\EMC\EMC\obj\Debug\EMC.csprojResolveAssemblyReference.cache
+C:\Users\Reizoky\Desktop\тест\ДИПЛОМ MDI - ФОРМЫ(редактируемая)1231231\EMC\EMC\obj\Debug\EMC.FormCTP.resources
+C:\Users\Reizoky\Desktop\тест\ДИПЛОМ MDI - ФОРМЫ(редактируемая)1231231\EMC\EMC\obj\Debug\EMC.FormGroups.resources
+C:\Users\Reizoky\Desktop\тест\ДИПЛОМ MDI - ФОРМЫ(редактируемая)1231231\EMC\EMC\obj\Debug\EMC.FormCelebrations.resources
+C:\Users\Reizoky\Desktop\тест\ДИПЛОМ MDI - ФОРМЫ(редактируемая)1231231\EMC\EMC\obj\Debug\EMC.FormEditPM.resources
+C:\Users\Reizoky\Desktop\тест\ДИПЛОМ MDI - ФОРМЫ(редактируемая)1231231\EMC\EMC\obj\Debug\EMC.FormCyclicCommissions.resources
+C:\Users\Reizoky\Desktop\тест\ДИПЛОМ MDI - ФОРМЫ(редактируемая)1231231\EMC\EMC\obj\Debug\EMC.FormFGOS.resources
+C:\Users\Reizoky\Desktop\тест\ДИПЛОМ MDI - ФОРМЫ(редактируемая)1231231\EMC\EMC\obj\Debug\EMC.FormMain.resources
+C:\Users\Reizoky\Desktop\тест\ДИПЛОМ MDI - ФОРМЫ(редактируемая)1231231\EMC\EMC\obj\Debug\EMC.FormProgram.resources
+C:\Users\Reizoky\Desktop\тест\ДИПЛОМ MDI - ФОРМЫ(редактируемая)1231231\EMC\EMC\obj\Debug\EMC.FormProgressBar.resources
+C:\Users\Reizoky\Desktop\тест\ДИПЛОМ MDI - ФОРМЫ(редактируемая)1231231\EMC\EMC\obj\Debug\EMC.FormThemes.resources
+C:\Users\Reizoky\Desktop\тест\ДИПЛОМ MDI - ФОРМЫ(редактируемая)1231231\EMC\EMC\obj\Debug\EMC.frmSettings.resources
+C:\Users\Reizoky\Desktop\тест\ДИПЛОМ MDI - ФОРМЫ(редактируемая)1231231\EMC\EMC\obj\Debug\EMC.Properties.Resources.resources
+C:\Users\Reizoky\Desktop\тест\ДИПЛОМ MDI - ФОРМЫ(редактируемая)1231231\EMC\EMC\obj\Debug\EMC.csproj.GenerateResource.Cache
+C:\Users\Reizoky\Desktop\тест\ДИПЛОМ MDI - ФОРМЫ(редактируемая)1231231\EMC\EMC\obj\Debug\EMC.csproj.CoreCompileInputs.cache
+C:\Users\Reizoky\Desktop\тест\ДИПЛОМ MDI - ФОРМЫ(редактируемая)1231231\EMC\EMC\obj\Debug\EMC.exe
+C:\Users\Reizoky\Desktop\тест\ДИПЛОМ MDI - ФОРМЫ(редактируемая)1231231\EMC\EMC\obj\Debug\EMC.pdb
+G:\стартовая\EMC\EMC\bin\Debug\EMC.exe.config
+G:\стартовая\EMC\EMC\bin\Debug\EMC.exe
+G:\стартовая\EMC\EMC\bin\Debug\EMC.pdb
+G:\стартовая\EMC\EMC\obj\Debug\EMC.csprojResolveAssemblyReference.cache
+G:\стартовая\EMC\EMC\obj\Debug\EMC.FormCTP.resources
+G:\стартовая\EMC\EMC\obj\Debug\EMC.FormGroups.resources
+G:\стартовая\EMC\EMC\obj\Debug\EMC.FormCelebrations.resources
+G:\стартовая\EMC\EMC\obj\Debug\EMC.FormEditPM.resources
+G:\стартовая\EMC\EMC\obj\Debug\EMC.FormCyclicCommissions.resources
+G:\стартовая\EMC\EMC\obj\Debug\EMC.FormFGOS.resources
+G:\стартовая\EMC\EMC\obj\Debug\EMC.FormMain.resources
+G:\стартовая\EMC\EMC\obj\Debug\EMC.FormProgram.resources
+G:\стартовая\EMC\EMC\obj\Debug\EMC.FormProgressBar.resources
+G:\стартовая\EMC\EMC\obj\Debug\EMC.FormThemes.resources
+G:\стартовая\EMC\EMC\obj\Debug\EMC.frmSettings.resources
+G:\стартовая\EMC\EMC\obj\Debug\EMC.Properties.Resources.resources
+G:\стартовая\EMC\EMC\obj\Debug\EMC.csproj.GenerateResource.Cache
+G:\стартовая\EMC\EMC\obj\Debug\EMC.csproj.CoreCompileInputs.cache
+G:\стартовая\EMC\EMC\obj\Debug\EMC.exe
+G:\стартовая\EMC\EMC\obj\Debug\EMC.pdb
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\стартовая\EMC\EMC\bin\Debug\EMC.exe.config
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\стартовая\EMC\EMC\bin\Debug\EMC.exe
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\стартовая\EMC\EMC\bin\Debug\EMC.pdb
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\стартовая\EMC\EMC\obj\Debug\EMC.csprojResolveAssemblyReference.cache
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\стартовая\EMC\EMC\obj\Debug\EMC.FormCTP.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\стартовая\EMC\EMC\obj\Debug\EMC.FormGroups.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\стартовая\EMC\EMC\obj\Debug\EMC.FormCelebrations.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\стартовая\EMC\EMC\obj\Debug\EMC.FormEditPM.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\стартовая\EMC\EMC\obj\Debug\EMC.FormCyclicCommissions.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\стартовая\EMC\EMC\obj\Debug\EMC.FormFGOS.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\стартовая\EMC\EMC\obj\Debug\EMC.FormMain.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\стартовая\EMC\EMC\obj\Debug\EMC.FormProgram.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\стартовая\EMC\EMC\obj\Debug\EMC.FormProgressBar.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\стартовая\EMC\EMC\obj\Debug\EMC.FormThemes.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\стартовая\EMC\EMC\obj\Debug\EMC.frmSettings.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\стартовая\EMC\EMC\obj\Debug\EMC.Properties.Resources.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\стартовая\EMC\EMC\obj\Debug\EMC.csproj.GenerateResource.Cache
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\стартовая\EMC\EMC\obj\Debug\EMC.csproj.CoreCompileInputs.cache
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\стартовая\EMC\EMC\obj\Debug\EMC.exe
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\стартовая\EMC\EMC\obj\Debug\EMC.pdb
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\стартовая - копия\EMC\EMC\bin\Debug\EMC.exe.config
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\стартовая - копия\EMC\EMC\bin\Debug\EMC.exe
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\стартовая - копия\EMC\EMC\bin\Debug\EMC.pdb
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\стартовая - копия\EMC\EMC\obj\Debug\EMC.csprojResolveAssemblyReference.cache
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\стартовая - копия\EMC\EMC\obj\Debug\EMC.FormCTP.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\стартовая - копия\EMC\EMC\obj\Debug\EMC.FormGroups.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\стартовая - копия\EMC\EMC\obj\Debug\EMC.FormCelebrations.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\стартовая - копия\EMC\EMC\obj\Debug\EMC.FormEditPM.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\стартовая - копия\EMC\EMC\obj\Debug\EMC.FormCyclicCommissions.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\стартовая - копия\EMC\EMC\obj\Debug\EMC.FormFGOS.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\стартовая - копия\EMC\EMC\obj\Debug\EMC.FormMain.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\стартовая - копия\EMC\EMC\obj\Debug\EMC.FormProgram.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\стартовая - копия\EMC\EMC\obj\Debug\EMC.FormProgressBar.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\стартовая - копия\EMC\EMC\obj\Debug\EMC.FormThemes.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\стартовая - копия\EMC\EMC\obj\Debug\EMC.frmSettings.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\стартовая - копия\EMC\EMC\obj\Debug\EMC.Properties.Resources.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\стартовая - копия\EMC\EMC\obj\Debug\EMC.csproj.GenerateResource.Cache
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\стартовая - копия\EMC\EMC\obj\Debug\EMC.csproj.CoreCompileInputs.cache
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\стартовая - копия\EMC\EMC\obj\Debug\EMC.exe
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\стартовая - копия\EMC\EMC\obj\Debug\EMC.pdb
+C:\Users\Reizoky\Desktop\рабочая версия\стартовая ver 2.1\EMC\EMC\obj\Debug\EMC.csprojResolveAssemblyReference.cache
+C:\Users\Reizoky\Desktop\рабочая версия\стартовая ver 2.1\EMC\EMC\obj\Debug\EMC.FormCTP.resources
+C:\Users\Reizoky\Desktop\рабочая версия\стартовая ver 2.1\EMC\EMC\obj\Debug\EMC.FormGroups.resources
+C:\Users\Reizoky\Desktop\рабочая версия\стартовая ver 2.1\EMC\EMC\obj\Debug\EMC.FormCelebrations.resources
+C:\Users\Reizoky\Desktop\рабочая версия\стартовая ver 2.1\EMC\EMC\obj\Debug\EMC.FormEditPM.resources
+C:\Users\Reizoky\Desktop\рабочая версия\стартовая ver 2.1\EMC\EMC\obj\Debug\EMC.FormCyclicCommissions.resources
+C:\Users\Reizoky\Desktop\рабочая версия\стартовая ver 2.1\EMC\EMC\obj\Debug\EMC.FormFGOS.resources
+C:\Users\Reizoky\Desktop\рабочая версия\стартовая ver 2.1\EMC\EMC\obj\Debug\EMC.FormMain.resources
+C:\Users\Reizoky\Desktop\рабочая версия\стартовая ver 2.1\EMC\EMC\obj\Debug\EMC.FormProgram.resources
+C:\Users\Reizoky\Desktop\рабочая версия\стартовая ver 2.1\EMC\EMC\obj\Debug\EMC.FormProgressBar.resources
+C:\Users\Reizoky\Desktop\рабочая версия\стартовая ver 2.1\EMC\EMC\obj\Debug\EMC.FormThemes.resources
+C:\Users\Reizoky\Desktop\рабочая версия\стартовая ver 2.1\EMC\EMC\obj\Debug\EMC.frmSettings.resources
+C:\Users\Reizoky\Desktop\рабочая версия\стартовая ver 2.1\EMC\EMC\obj\Debug\EMC.Properties.Resources.resources
+C:\Users\Reizoky\Desktop\рабочая версия\стартовая ver 2.1\EMC\EMC\obj\Debug\EMC.csproj.GenerateResource.Cache
+C:\Users\Reizoky\Desktop\рабочая версия\стартовая ver 2.1\EMC\EMC\obj\Debug\EMC.csproj.CoreCompileInputs.cache
+C:\Users\Reizoky\Desktop\рабочая версия\стартовая ver 2.1\EMC\EMC\obj\Debug\EMC.exe
+C:\Users\Reizoky\Desktop\рабочая версия\стартовая ver 2.1\EMC\EMC\obj\Debug\EMC.pdb
+C:\Users\Reizoky\Desktop\рабочая версия\стартовая ver 2.1\EMC\EMC\bin\Debug\EMC.exe.config
+C:\Users\Reizoky\Desktop\рабочая версия\стартовая ver 2.1\EMC\EMC\bin\Debug\EMC.exe
+C:\Users\Reizoky\Desktop\рабочая версия\стартовая ver 2.1\EMC\EMC\bin\Debug\EMC.pdb
+C:\Users\Reizoky\Desktop\рабочая версия\стартовая ver 2.1\EMC\EMC\obj\Debug\EMC.WaitingStatus.resources
+C:\Users\Reizoky\Desktop\рабочая версия\стартовая ver 2.1\EMC\EMC\obj\Debug\EMC.frmInfo.resources
+G:\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\bin\Debug\EMC.exe.config
+G:\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\bin\Debug\EMC.exe
+G:\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\bin\Debug\EMC.pdb
+G:\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.csprojResolveAssemblyReference.cache
+G:\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.FormCTP.resources
+G:\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.FormGroups.resources
+G:\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.FormCelebrations.resources
+G:\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.FormEditPM.resources
+G:\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.FormCyclicCommissions.resources
+G:\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.FormFGOS.resources
+G:\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.FormMain.resources
+G:\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.FormProgram.resources
+G:\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.FormProgressBar.resources
+G:\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.FormThemes.resources
+G:\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.frmInfo.resources
+G:\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.frmSettings.resources
+G:\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.Properties.Resources.resources
+G:\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.WaitingStatus.resources
+G:\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.csproj.GenerateResource.Cache
+G:\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.csproj.CoreCompileInputs.cache
+G:\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.exe
+G:\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.pdb
+K:\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\bin\Debug\EMC.exe.config
+K:\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\bin\Debug\EMC.exe
+K:\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\bin\Debug\EMC.pdb
+K:\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.csprojResolveAssemblyReference.cache
+K:\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.FormCTP.resources
+K:\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.FormGroups.resources
+K:\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.FormCelebrations.resources
+K:\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.FormEditPM.resources
+K:\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.FormCyclicCommissions.resources
+K:\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.FormFGOS.resources
+K:\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.FormMain.resources
+K:\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.FormProgram.resources
+K:\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.FormProgressBar.resources
+K:\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.FormThemes.resources
+K:\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.frmInfo.resources
+K:\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.frmSettings.resources
+K:\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.Properties.Resources.resources
+K:\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.WaitingStatus.resources
+K:\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.csproj.GenerateResource.Cache
+K:\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.csproj.CoreCompileInputs.cache
+K:\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.exe
+K:\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.pdb
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.frmInfo.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\ДИПЛОМ MDI - ФОРМЫ(редактируемая)\EMC\EMC\obj\Debug\EMC.WaitingStatus.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\EMC\EMC\bin\Debug\EMC.exe.config
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\EMC\EMC\bin\Debug\EMC.exe
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\EMC\EMC\bin\Debug\EMC.pdb
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\EMC\EMC\obj\Debug\EMC.csprojResolveAssemblyReference.cache
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\EMC\EMC\obj\Debug\EMC.FormCTP.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\EMC\EMC\obj\Debug\EMC.FormGroups.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\EMC\EMC\obj\Debug\EMC.FormCelebrations.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\EMC\EMC\obj\Debug\EMC.FormEditPM.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\EMC\EMC\obj\Debug\EMC.FormCyclicCommissions.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\EMC\EMC\obj\Debug\EMC.FormFGOS.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\EMC\EMC\obj\Debug\EMC.FormMain.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\EMC\EMC\obj\Debug\EMC.FormProgram.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\EMC\EMC\obj\Debug\EMC.FormProgressBar.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\EMC\EMC\obj\Debug\EMC.FormThemes.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\EMC\EMC\obj\Debug\EMC.frmInfo.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\EMC\EMC\obj\Debug\EMC.frmSettings.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\EMC\EMC\obj\Debug\EMC.Properties.Resources.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\EMC\EMC\obj\Debug\EMC.WaitingStatus.resources
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\EMC\EMC\obj\Debug\EMC.csproj.GenerateResource.Cache
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\EMC\EMC\obj\Debug\EMC.csproj.CoreCompileInputs.cache
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\EMC\EMC\obj\Debug\EMC.exe
+C:\Users\Reizoky\Desktop\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\EMC\EMC\obj\Debug\EMC.pdb
+Z:\МоиПрограммы\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\EMC\EMC\bin\Debug\EMC.exe.config
+Z:\МоиПрограммы\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\EMC\EMC\bin\Debug\EMC.exe
+Z:\МоиПрограммы\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\EMC\EMC\bin\Debug\EMC.pdb
+Z:\МоиПрограммы\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\EMC\EMC\obj\Debug\EMC.csprojAssemblyReference.cache
+Z:\МоиПрограммы\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\EMC\EMC\obj\Debug\EMC.FormCTP.resources
+Z:\МоиПрограммы\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\EMC\EMC\obj\Debug\EMC.FormGroups.resources
+Z:\МоиПрограммы\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\EMC\EMC\obj\Debug\EMC.FormCelebrations.resources
+Z:\МоиПрограммы\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\EMC\EMC\obj\Debug\EMC.FormEditPM.resources
+Z:\МоиПрограммы\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\EMC\EMC\obj\Debug\EMC.FormCyclicCommissions.resources
+Z:\МоиПрограммы\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\EMC\EMC\obj\Debug\EMC.FormFGOS.resources
+Z:\МоиПрограммы\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\EMC\EMC\obj\Debug\EMC.FormMain.resources
+Z:\МоиПрограммы\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\EMC\EMC\obj\Debug\EMC.FormProgram.resources
+Z:\МоиПрограммы\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\EMC\EMC\obj\Debug\EMC.FormProgressBar.resources
+Z:\МоиПрограммы\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\EMC\EMC\obj\Debug\EMC.FormThemes.resources
+Z:\МоиПрограммы\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\EMC\EMC\obj\Debug\EMC.frmInfo.resources
+Z:\МоиПрограммы\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\EMC\EMC\obj\Debug\EMC.frmSettings.resources
+Z:\МоиПрограммы\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\EMC\EMC\obj\Debug\EMC.Properties.Resources.resources
+Z:\МоиПрограммы\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\EMC\EMC\obj\Debug\EMC.WaitingStatus.resources
+Z:\МоиПрограммы\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\EMC\EMC\obj\Debug\EMC.csproj.GenerateResource.cache
+Z:\МоиПрограммы\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\EMC\EMC\obj\Debug\EMC.csproj.CoreCompileInputs.cache
+Z:\МоиПрограммы\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\EMC\EMC\obj\Debug\EMC.exe
+Z:\МоиПрограммы\THIS IS DIPLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM\EMC\EMC\obj\Debug\EMC.pdb

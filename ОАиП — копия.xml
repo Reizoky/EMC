@@ -1,0 +1,526 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<ds xmlns="http://tempuri.org/ds.xsd">
+  <razdel>
+    <idR>1</idR>
+    <text>Основные принципы алгоритмизации и программирования</text>
+  </razdel>
+  <razdel>
+    <idR>2</idR>
+    <text>Основы языка С/С++</text>
+  </razdel>
+  <tema>
+    <idT>1</idT>
+    <idR>1</idR>
+    <text>Основные понятия алгоритмизации</text>
+    <urOsvoen>2.3</urOsvoen>
+  </tema>
+  <tema>
+    <idT>2</idT>
+    <idR>1</idR>
+    <text>Интегрированная среда разработки </text>
+    <urOsvoen>1</urOsvoen>
+  </tema>
+  <tema>
+    <idT>1</idT>
+    <idR>2</idR>
+    <text>Основные понятия и элементы языка С/С++</text>
+    <urOsvoen>2</urOsvoen>
+  </tema>
+  <tema>
+    <idT>2</idT>
+    <idR>2</idR>
+    <text>Основные операторы языка С/С++</text>
+    <urOsvoen>2</urOsvoen>
+  </tema>
+  <tema>
+    <idT>3</idT>
+    <idR>2</idR>
+    <text>Указатели и массивы</text>
+    <urOsvoen>2.3</urOsvoen>
+  </tema>
+  <tema>
+    <idT>4</idT>
+    <idR>2</idR>
+    <text>Обработка символьной информации</text>
+    <urOsvoen>2.3</urOsvoen>
+  </tema>
+  <tema>
+    <idT>5</idT>
+    <idR>2</idR>
+    <text>Функции</text>
+    <urOsvoen>2</urOsvoen>
+  </tema>
+  <tema>
+    <idT>6</idT>
+    <idR>2</idR>
+    <text>Организа-ция ввода/вывода в С++</text>
+    <urOsvoen>2.3</urOsvoen>
+  </tema>
+  <tema>
+    <idT>7</idT>
+    <idR>2</idR>
+    <text>Структуры и объединения в языке С</text>
+    <urOsvoen>2</urOsvoen>
+  </tema>
+  <tema>
+    <idT>8</idT>
+    <idR>2</idR>
+    <text>Объектно-ориентированное программирование</text>
+    <urOsvoen>2.3</urOsvoen>
+  </tema>
+  <sod>
+    <idS>1</idS>
+    <idT>1</idT>
+    <idR>2</idR>
+    <text>История появления языка С. С++ как расширение языка С. Образец типичной программы на языке С, ее составные части.</text>
+    <aud>2</aud>
+    <idV>1</idV>
+    <sam>1.5</sam>
+  </sod>
+  <sod>
+    <idS>2</idS>
+    <idT>1</idT>
+    <idR>2</idR>
+    <text>Основные элементы языка С: переменные, константы, алфавит, идентификаторы, ключевые слова, выражения, операторы.</text>
+    <aud>2</aud>
+    <idV>1</idV>
+    <sam>0.5</sam>
+  </sod>
+  <sod>
+    <idS>1</idS>
+    <idT>2</idT>
+    <idR>2</idR>
+    <text>Условный оператор. Оператор выбора.</text>
+    <aud>2</aud>
+    <idV>1</idV>
+    <sam>1.5</sam>
+  </sod>
+  <sod>
+    <idS>1</idS>
+    <idT>1</idT>
+    <idR>1</idR>
+    <text>Понятие алгоритма. Свойства алгоритмов.</text>
+    <aud>1</aud>
+    <idV>1</idV>
+    <sam>0.5</sam>
+  </sod>
+  <sod>
+    <idS>2</idS>
+    <idT>1</idT>
+    <idR>1</idR>
+    <text>Способы описания алгоритмов: словесно-формульный, графический, на алгоритмическом языке. Графический способ описания.</text>
+    <aud>2</aud>
+    <idV>1</idV>
+    <sam>0.5</sam>
+  </sod>
+  <sod>
+    <idS>3</idS>
+    <idT>1</idT>
+    <idR>1</idR>
+    <text>Базовые структуры алгоритмов. Данные: понятие и типы.</text>
+    <aud>2</aud>
+    <idV>1</idV>
+    <sam>1</sam>
+  </sod>
+  <sod>
+    <idS>4</idS>
+    <idT>1</idT>
+    <idR>1</idR>
+    <text>Виды алгоритмов: линейный, разветвляющийся, циклический.</text>
+    <aud>2</aud>
+    <idV>1</idV>
+    <sam>1</sam>
+  </sod>
+  <sod>
+    <idS>5</idS>
+    <idT>1</idT>
+    <idR>1</idR>
+    <text>Принципы составления алгоритмов. Исполнение и отладка алгоритмов.</text>
+    <aud>2</aud>
+    <idV>1</idV>
+    <sam>1</sam>
+  </sod>
+  <sod>
+    <idS>1</idS>
+    <idT>1</idT>
+    <idR>1</idR>
+    <text>Составление и отладка простейших алгоритмов</text>
+    <aud>2</aud>
+    <idV>3</idV>
+    <sam>1</sam>
+    <ymet>1</ymet>
+  </sod>
+  <sod>
+    <idS>2</idS>
+    <idT>1</idT>
+    <idR>1</idR>
+    <text>Составление и отладка разветвляющихся алгоритмов</text>
+    <aud>2</aud>
+    <idV>3</idV>
+    <sam>1</sam>
+    <ymet>1</ymet>
+  </sod>
+  <sod>
+    <idS>3</idS>
+    <idT>1</idT>
+    <idR>1</idR>
+    <text>Составление и отладка циклических алгоритмов</text>
+    <aud>2</aud>
+    <idV>3</idV>
+    <sam>1</sam>
+    <ymet>1</ymet>
+  </sod>
+  <sod>
+    <idS>4</idS>
+    <idT>1</idT>
+    <idR>1</idR>
+    <text>Составление и отладка алгоритмов</text>
+    <aud>2</aud>
+    <idV>3</idV>
+    <sam>1</sam>
+    <ymet>1</ymet>
+  </sod>
+  <sod>
+    <idS>1</idS>
+    <idT>2</idT>
+    <idR>1</idR>
+    <text>Появление и эволюция языков программирования, их классификация. Понятие о программе, о системе программирования. Этапы разработки программ. Знакомство с интерфейсом интегрированной среды разработки Microsoft Visual Studio</text>
+    <aud>2</aud>
+    <idV>1</idV>
+    <sam>1</sam>
+  </sod>
+  <sod>
+    <idS>3</idS>
+    <idT>1</idT>
+    <idR>2</idR>
+    <text>Основные типы данных. Объявление переменных и констант. Инициализация переменных.</text>
+    <aud>2</aud>
+    <idV>1</idV>
+    <sam>0.5</sam>
+  </sod>
+  <sod>
+    <idS>4</idS>
+    <idT>1</idT>
+    <idR>2</idR>
+    <text>Операции и выражения. Основные математические функции.
+Функция ввода scanf(). Функции вывода puts() и printf(). Спецификаторы формата ввода/вывода.</text>
+    <aud>2</aud>
+    <idV>1</idV>
+    <sam>0.5</sam>
+  </sod>
+  <sod>
+    <idS>1</idS>
+    <idT>1</idT>
+    <idR>2</idR>
+    <text>Составление простейших программ на языке С.</text>
+    <aud>2</aud>
+    <idV>2</idV>
+    <sam>1</sam>
+    <ymet>1,2</ymet>
+  </sod>
+  <sod>
+    <idS>2</idS>
+    <idT>2</idT>
+    <idR>2</idR>
+    <text>Циклические операторы: цикл с предусловием, цикл с постусловием, цикл с параметром.</text>
+    <aud>2</aud>
+    <idV>1</idV>
+    <sam>1.5</sam>
+  </sod>
+  <sod>
+    <idS>3</idS>
+    <idT>2</idT>
+    <idR>2</idR>
+    <text>Операторы передачи управления.</text>
+    <aud>2</aud>
+    <idV>1</idV>
+    <sam>0.5</sam>
+  </sod>
+  <sod>
+    <idS>2</idS>
+    <idT>2</idT>
+    <idR>2</idR>
+    <text>Составление разветвляющихся программ на языке С.</text>
+    <aud>2</aud>
+    <idV>2</idV>
+    <sam>1</sam>
+    <ymet>1,2</ymet>
+  </sod>
+  <sod>
+    <idS>3</idS>
+    <idT>2</idT>
+    <idR>2</idR>
+    <text>Составление разветвляющихся программ со сложным условием на языке С.</text>
+    <aud>2</aud>
+    <idV>2</idV>
+    <sam>1</sam>
+    <ymet>1,2</ymet>
+  </sod>
+  <sod>
+    <idS>4</idS>
+    <idT>2</idT>
+    <idR>2</idR>
+    <text>Составление циклических программ на языке С.</text>
+    <aud>2</aud>
+    <idV>2</idV>
+    <sam>1</sam>
+    <ymet>1,2</ymet>
+  </sod>
+  <sod>
+    <idS>5</idS>
+    <idT>2</idT>
+    <idR>2</idR>
+    <text>Составление программ на языке С.</text>
+    <aud>2</aud>
+    <idV>2</idV>
+    <sam>1</sam>
+    <ymet>1,2</ymet>
+  </sod>
+  <sod>
+    <idS>1</idS>
+    <idT>3</idT>
+    <idR>2</idR>
+    <text>Переменные - указатели. Объявление и использование указателей. Массивы. Объявление и инициализация массива. Многомерные массивы. Использование массивов. Совместное использование массивов и указателей</text>
+    <aud>2</aud>
+    <idV>1</idV>
+    <sam>1</sam>
+  </sod>
+  <sod>
+    <idS>2</idS>
+    <idT>3</idT>
+    <idR>2</idR>
+    <text>Сортировка массивов. Динамические переменные и массивы: определение, создание, использование, удаление. Нулевой указатель NULL</text>
+    <aud>2</aud>
+    <idV>1</idV>
+    <sam>1</sam>
+  </sod>
+  <sod>
+    <idS>6</idS>
+    <idT>3</idT>
+    <idR>2</idR>
+    <text>Составление программ с использованием массивов.</text>
+    <aud>2</aud>
+    <idV>2</idV>
+    <sam>1</sam>
+    <ymet>1,2</ymet>
+  </sod>
+  <sod>
+    <idS>7</idS>
+    <idT>3</idT>
+    <idR>2</idR>
+    <text>Составление программ с использованием динамических массивов.</text>
+    <aud>2</aud>
+    <idV>2</idV>
+    <sam>1</sam>
+    <ymet>1,2</ymet>
+  </sod>
+  <sod>
+    <idS>1</idS>
+    <idT>4</idT>
+    <idR>2</idR>
+    <text>Символьная информация: понятие, способы представления. Массивы символов. Функции для работы со строками. Поиск, удаление, замена и добавление символов в строке.</text>
+    <aud>2</aud>
+    <idV>1</idV>
+    <sam>1</sam>
+  </sod>
+  <sod>
+    <idS>8</idS>
+    <idT>4</idT>
+    <idR>2</idR>
+    <text>Обработка символьных данных.</text>
+    <aud>2</aud>
+    <idV>2</idV>
+    <sam>1</sam>
+    <ymet>1,2</ymet>
+  </sod>
+  <sod>
+    <idS>1</idS>
+    <idT>5</idT>
+    <idR>2</idR>
+    <text>Определение и виды функций. Структура функции. Вызов функции. Вызов функции с переменным числом параметров.</text>
+    <aud>2</aud>
+    <idV>1</idV>
+    <sam>1</sam>
+  </sod>
+  <sod>
+    <idS>2</idS>
+    <idT>5</idT>
+    <idR>2</idR>
+    <text>Рекурсивные функции. Область видимости переменных. Локальные и глобальные переменные. Статические и динамические переменные</text>
+    <aud>2</aud>
+    <idV>1</idV>
+    <sam>0.5</sam>
+  </sod>
+  <sod>
+    <idS>9</idS>
+    <idT>5</idT>
+    <idR>2</idR>
+    <text>Составление программ с использованием функций.</text>
+    <aud>2</aud>
+    <idV>2</idV>
+    <sam>1</sam>
+    <ymet>1,2</ymet>
+  </sod>
+  <sod>
+    <idS>10</idS>
+    <idT>5</idT>
+    <idR>2</idR>
+    <text>Составление программ с использованием рекурсивных функций.</text>
+    <aud>2</aud>
+    <idV>2</idV>
+    <sam>1</sam>
+    <ymet>1,2</ymet>
+  </sod>
+  <sod>
+    <idS>1</idS>
+    <idT>6</idT>
+    <idR>2</idR>
+    <text>Общие сведения о библиотеке потокового ввода/вывода. Форматированный ввод/вывод в С++.</text>
+    <aud>2</aud>
+    <idV>1</idV>
+    <sam>1</sam>
+  </sod>
+  <sod>
+    <idS>2</idS>
+    <idT>6</idT>
+    <idR>2</idR>
+    <text>Работа с файлами. Режимы открытия потока. Функции для работы с файлами.</text>
+    <aud>2</aud>
+    <idV>1</idV>
+    <sam>1</sam>
+  </sod>
+  <sod>
+    <idS>3</idS>
+    <idT>6</idT>
+    <idR>2</idR>
+    <text>Различия в работе с текстовыми и двоичными файлами.</text>
+    <aud>2</aud>
+    <idV>1</idV>
+    <sam>1</sam>
+  </sod>
+  <sod>
+    <idS>11</idS>
+    <idT>6</idT>
+    <idR>2</idR>
+    <text>Работа с файлами в С.</text>
+    <aud>2</aud>
+    <idV>2</idV>
+    <sam>1</sam>
+    <ymet>1,2</ymet>
+  </sod>
+  <sod>
+    <idS>12</idS>
+    <idT>6</idT>
+    <idR>2</idR>
+    <text>Файловый ввод/вывод.</text>
+    <aud>2</aud>
+    <idV>2</idV>
+    <sam>1</sam>
+    <ymet>1,2</ymet>
+  </sod>
+  <sod>
+    <idS>1</idS>
+    <idT>7</idT>
+    <idR>2</idR>
+    <text>Определение и инициализация структуры.  Создание экземпляра структуры. Структура, как новый тип данных, определенный пользователем. Использование структуры. Структуры и указатели. Объединение.</text>
+    <aud>2</aud>
+    <idV>1</idV>
+    <sam>1.5</sam>
+  </sod>
+  <sod>
+    <idS>13</idS>
+    <idT>7</idT>
+    <idR>2</idR>
+    <text>Составление программ с использованием структур.</text>
+    <aud>2</aud>
+    <idV>2</idV>
+    <sam>1</sam>
+    <ymet>1,2</ymet>
+  </sod>
+  <sod>
+    <idS>1</idS>
+    <idT>8</idT>
+    <idR>2</idR>
+    <text>История развития ООП. Базовые понятия: объект, его свойства и методы, класс.</text>
+    <aud>2</aud>
+    <idV>1</idV>
+    <sam>0.5</sam>
+  </sod>
+  <sod>
+    <idS>2</idS>
+    <idT>8</idT>
+    <idR>2</idR>
+    <text>Основные принципы ООП: инкапсуляция, наследование, полиморфизм.</text>
+    <aud>2</aud>
+    <idV>1</idV>
+    <sam>1.5</sam>
+  </sod>
+  <sod>
+    <idS>3</idS>
+    <idT>8</idT>
+    <idR>2</idR>
+    <text>Классы в С++ как расширение понятия структуры, конструкторы и деструкторы, наследование классов, перегрузка функций, интерфейс и реализация класса.</text>
+    <aud>2</aud>
+    <idV>1</idV>
+    <sam>1.5</sam>
+  </sod>
+  <sod>
+    <idS>14</idS>
+    <idT>8</idT>
+    <idR>2</idR>
+    <text>Работа с классами в С++.</text>
+    <aud>2</aud>
+    <idV>2</idV>
+    <sam>1</sam>
+    <ymet>1,2</ymet>
+  </sod>
+  <sod>
+    <idS>15</idS>
+    <idT>8</idT>
+    <idR>2</idR>
+    <text>Работа с классами в С++.</text>
+    <aud>2</aud>
+    <idV>2</idV>
+    <sam>1</sam>
+    <ymet>1,2</ymet>
+  </sod>
+  <sod>
+    <idS>16</idS>
+    <idT>8</idT>
+    <idR>2</idR>
+    <text>Разработка программ.</text>
+    <aud>2</aud>
+    <idV>2</idV>
+    <sam>1</sam>
+    <ymet>1,2</ymet>
+  </sod>
+  <sod>
+    <idS>0</idS>
+    <idT>1</idT>
+    <idR>1</idR>
+    <text>Введение. Предмет и задачи дисциплины, связь с другими дисциплинами. Тенденции развития программного обеспечения вычислительной техники.</text>
+    <aud>1</aud>
+    <idV>1</idV>
+    <sam>0</sam>
+  </sod>
+  <vid>
+    <idV>1</idV>
+    <text>урок</text>
+  </vid>
+  <vid>
+    <idV>2</idV>
+    <text>лаб</text>
+  </vid>
+  <vid>
+    <idV>3</idV>
+    <text>практ</text>
+  </vid>
+  <vid>
+    <idV>4</idV>
+    <text>контр</text>
+  </vid>
+  <vid>
+    <idV>5</idV>
+    <text>КП/КР</text>
+  </vid>
+</ds>

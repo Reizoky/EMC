@@ -1,0 +1,2056 @@
+<?xml version="1.0" standalone="yes"?>
+<dsFGOS xmlns="http://tempuri.org/dsFGOS.xsd">
+  <cikl>
+    <idCikl>ОГСЭ.00</idCikl>
+    <name>Общий гуманитарный и социально-экономический цикл</name>
+  </cikl>
+  <cikl>
+    <idCikl>ЕН.00</idCikl>
+    <name>Математический и общий естественнонаучный цикл</name>
+  </cikl>
+  <cikl>
+    <idCikl>П.00</idCikl>
+    <name>Профессиональный цикл</name>
+  </cikl>
+  <cikl>
+    <idCikl>ПМ.00</idCikl>
+    <name>Профессиональные модули</name>
+  </cikl>
+  <disc>
+    <idDisc>ОГСЭ.01</idDisc>
+    <idCikl>ОГСЭ.00</idCikl>
+    <pm>false</pm>
+    <name>Основы философии</name>
+  </disc>
+  <disc>
+    <idDisc>ОГСЭ.02</idDisc>
+    <idCikl>ОГСЭ.00</idCikl>
+    <pm>false</pm>
+    <name>История</name>
+  </disc>
+  <disc>
+    <idDisc>ОГСЭ.03</idDisc>
+    <idCikl>ОГСЭ.00</idCikl>
+    <pm>false</pm>
+    <name>Иностранный язык</name>
+  </disc>
+  <disc>
+    <idDisc>ОГСЭ.04</idDisc>
+    <idCikl>ОГСЭ.00</idCikl>
+    <pm>false</pm>
+    <name>Физическая культура</name>
+  </disc>
+  <disc>
+    <idDisc>ЕН.01</idDisc>
+    <idCikl>ЕН.00</idCikl>
+    <pm>false</pm>
+    <name>Элементы высшей математики</name>
+  </disc>
+  <disc>
+    <idDisc>ЕН.02</idDisc>
+    <idCikl>ЕН.00</idCikl>
+    <pm>false</pm>
+    <name>Элементы математической логики</name>
+  </disc>
+  <disc>
+    <idDisc>ЕН.03</idDisc>
+    <idCikl>ЕН.00</idCikl>
+    <pm>false</pm>
+    <name>Теория вероятностей и математическая статистика</name>
+  </disc>
+  <disc>
+    <idDisc>ОП.01</idDisc>
+    <idCikl>П.00</idCikl>
+    <pm>false</pm>
+    <name>Операционные системы</name>
+  </disc>
+  <disc>
+    <idDisc>ОП.02</idDisc>
+    <idCikl>П.00</idCikl>
+    <pm>false</pm>
+    <name>Архитектура компьютерных систем</name>
+  </disc>
+  <disc>
+    <idDisc>ОП.03</idDisc>
+    <idCikl>П.00</idCikl>
+    <pm>false</pm>
+    <name>Технические средства информатизации</name>
+  </disc>
+  <disc>
+    <idDisc>ОП.04</idDisc>
+    <idCikl>П.00</idCikl>
+    <pm>false</pm>
+    <name>Информационные технологии</name>
+  </disc>
+  <disc>
+    <idDisc>ОП.05</idDisc>
+    <idCikl>П.00</idCikl>
+    <pm>false</pm>
+    <name>Основы программирования</name>
+  </disc>
+  <disc>
+    <idDisc>ОП.06</idDisc>
+    <idCikl>П.00</idCikl>
+    <pm>false</pm>
+    <name>Основы экономики</name>
+  </disc>
+  <disc>
+    <idDisc>ОП.07</idDisc>
+    <idCikl>П.00</idCikl>
+    <pm>false</pm>
+    <name>Правовое обеспечение профессиональной деятельности</name>
+  </disc>
+  <disc>
+    <idDisc>ОП.08</idDisc>
+    <idCikl>П.00</idCikl>
+    <pm>false</pm>
+    <name>Теория алгоритмов</name>
+  </disc>
+  <disc>
+    <idDisc>ОП.09</idDisc>
+    <idCikl>П.00</idCikl>
+    <pm>false</pm>
+    <name>Безопасность жизнедеятельности</name>
+  </disc>
+  <disc>
+    <idDisc>ПМ.01</idDisc>
+    <idCikl>ПМ.00</idCikl>
+    <pm>true</pm>
+    <name>Разработка программных модулей программного обеспечения для компьютерных систем</name>
+  </disc>
+  <disc>
+    <idDisc>ПМ.02</idDisc>
+    <idCikl>ПМ.00</idCikl>
+    <pm>true</pm>
+    <name>Разработка и администрирование баз данных</name>
+  </disc>
+  <disc>
+    <idDisc>ПМ.03</idDisc>
+    <idCikl>ПМ.00</idCikl>
+    <pm>true</pm>
+    <name>Участие в интеграции программных модулей</name>
+  </disc>
+  <disc>
+    <idDisc>ПМ.04</idDisc>
+    <idCikl>ПМ.00</idCikl>
+    <pm>true</pm>
+    <name>Выполнение работ по одной или нескольким профессиям рабочих, должностям служащих</name>
+  </disc>
+  <treb>
+    <idTreb>У.1</idTreb>
+    <idDisc>ОГСЭ.01</idDisc>
+    <text>ориентироваться в наиболее общих философских проблемах бытия, познания, ценностей, свободы и смысла жизни как основах формирования культуры гражданина и будущего специалиста;</text>
+  </treb>
+  <treb>
+    <idTreb>З.1</idTreb>
+    <idDisc>ОГСЭ.01</idDisc>
+    <text>основные категории и понятия философии;</text>
+  </treb>
+  <treb>
+    <idTreb>З.2</idTreb>
+    <idDisc>ОГСЭ.01</idDisc>
+    <text>роль философии в жизни человека к общества;</text>
+  </treb>
+  <treb>
+    <idTreb>З.3</idTreb>
+    <idDisc>ОГСЭ.01</idDisc>
+    <text>основы философского учения о бытии;</text>
+  </treb>
+  <treb>
+    <idTreb>З.4</idTreb>
+    <idDisc>ОГСЭ.01</idDisc>
+    <text>сущность процесса познания;</text>
+  </treb>
+  <treb>
+    <idTreb>З.5</idTreb>
+    <idDisc>ОГСЭ.01</idDisc>
+    <text>основы научной, философской и религиозной картин мира;</text>
+  </treb>
+  <treb>
+    <idTreb>З.6</idTreb>
+    <idDisc>ОГСЭ.01</idDisc>
+    <text>об условиях формирования личности, свободе и ответственности за сохранение жизни, культуры, окружающей среды;</text>
+  </treb>
+  <treb>
+    <idTreb>З.7</idTreb>
+    <idDisc>ОГСЭ.01</idDisc>
+    <text>о социальных и этических проблемах, связанных с развитием и использованием достижений науки, техники и технологий;</text>
+  </treb>
+  <treb>
+    <idTreb>У.1</idTreb>
+    <idDisc>ОГСЭ.02</idDisc>
+    <text>ориентироваться в современной экономической, политической и культурной ситуации в России и мире;</text>
+  </treb>
+  <treb>
+    <idTreb>У.2</idTreb>
+    <idDisc>ОГСЭ.02</idDisc>
+    <text>выявлять взаимосвязь российских, региональных, мировых социально-экономических, политических и культурных проблем;</text>
+  </treb>
+  <treb>
+    <idTreb>З.1</idTreb>
+    <idDisc>ОГСЭ.02</idDisc>
+    <text>основные направления развития ключевых регионов мира на рубеже XX и XXI вв.;</text>
+  </treb>
+  <treb>
+    <idTreb>З.2</idTreb>
+    <idDisc>ОГСЭ.02</idDisc>
+    <text>сущность и причины локальных, региональных, межгосударственных конфликтов в конце XX - начале XXI вв.;</text>
+  </treb>
+  <treb>
+    <idTreb>З.3</idTreb>
+    <idDisc>ОГСЭ.02</idDisc>
+    <text>основные процессы (интеграционные, поликультурные, миграционные и иные) политического и экономического развития ведущих государств и регионов мира;</text>
+  </treb>
+  <treb>
+    <idTreb>З.4</idTreb>
+    <idDisc>ОГСЭ.02</idDisc>
+    <text>назначение ООН, НАТО, ЕС и других организаций и основные направления их деятельности;</text>
+  </treb>
+  <treb>
+    <idTreb>З.5</idTreb>
+    <idDisc>ОГСЭ.02</idDisc>
+    <text>о роли науки, культуры и религии в сохранении и укреплении национальных и государственных традиций;</text>
+  </treb>
+  <treb>
+    <idTreb>З.6</idTreb>
+    <idDisc>ОГСЭ.02</idDisc>
+    <text>содержание и назначение важнейших правовых и законодательных актов мирового и регионального значения;</text>
+  </treb>
+  <treb>
+    <idTreb>У.1</idTreb>
+    <idDisc>ОГСЭ.03</idDisc>
+    <text>общаться (устно и письменно) на иностранном языке на профессиональные и повседневные темы;</text>
+  </treb>
+  <treb>
+    <idTreb>У.2</idTreb>
+    <idDisc>ОГСЭ.03</idDisc>
+    <text>переводить (со словарем) иностранные тексты профессиональной направленности;</text>
+  </treb>
+  <treb>
+    <idTreb>У.3</idTreb>
+    <idDisc>ОГСЭ.03</idDisc>
+    <text>самостоятельно совершенствовать устную и письменную речь, пополнять словарный запас;</text>
+  </treb>
+  <treb>
+    <idTreb>З.1</idTreb>
+    <idDisc>ОГСЭ.03</idDisc>
+    <text>лексический (1200 - 1400 лексических единиц) и грамматический минимум, необходимый для чтения и перевода (со словарем) иностранных текстов профессиональной направленности;</text>
+  </treb>
+  <treb>
+    <idTreb>У.1</idTreb>
+    <idDisc>ОГСЭ.04</idDisc>
+    <text>использовать физкультурно-оздоровительную деятельность для укрепления здоровья, достижения жизненных и профессиональных целей;</text>
+  </treb>
+  <treb>
+    <idTreb>З.1</idTreb>
+    <idDisc>ОГСЭ.04</idDisc>
+    <text>о роли физической культуры в общекультурном, профессиональном и социальном развитии человека;</text>
+  </treb>
+  <treb>
+    <idTreb>З.2</idTreb>
+    <idDisc>ОГСЭ.04</idDisc>
+    <text>основы здорового образа жизни.</text>
+  </treb>
+  <treb>
+    <idTreb>У.1</idTreb>
+    <idDisc>ЕН.01</idDisc>
+    <text>выполнять операции над матрицами и решать системы линейных уравнений;</text>
+  </treb>
+  <treb>
+    <idTreb>У.2</idTreb>
+    <idDisc>ЕН.01</idDisc>
+    <text>решать задачи, используя уравнения прямых и кривых второго порядка на плоскости;</text>
+  </treb>
+  <treb>
+    <idTreb>У.3</idTreb>
+    <idDisc>ЕН.01</idDisc>
+    <text>применять методы дифференциального и интегрального исчисления;</text>
+  </treb>
+  <treb>
+    <idTreb>У.4</idTreb>
+    <idDisc>ЕН.01</idDisc>
+    <text>решать дифференциальные уравнения;</text>
+  </treb>
+  <treb>
+    <idTreb>У.5</idTreb>
+    <idDisc>ЕН.01</idDisc>
+    <text>пользоваться понятиями теории комплексных чисел;</text>
+  </treb>
+  <treb>
+    <idTreb>З.1</idTreb>
+    <idDisc>ЕН.01</idDisc>
+    <text>основы математического анализа, линейной алгебры и аналитической геометрии;</text>
+  </treb>
+  <treb>
+    <idTreb>З.2</idTreb>
+    <idDisc>ЕН.01</idDisc>
+    <text>основы дифференциального и интегрального исчисления;</text>
+  </treb>
+  <treb>
+    <idTreb>З.3</idTreb>
+    <idDisc>ЕН.01</idDisc>
+    <text>основы теории комплексных чисел;</text>
+  </treb>
+  <treb>
+    <idTreb>У.1</idTreb>
+    <idDisc>ЕН.02</idDisc>
+    <text>формулировать задачи логического характера и применять средства математической логики для их решения;</text>
+  </treb>
+  <treb>
+    <idTreb>З.1</idTreb>
+    <idDisc>ЕН.02</idDisc>
+    <text>основные принципы математической логики, теории множеств и теории алгоритмов;</text>
+  </treb>
+  <treb>
+    <idTreb>З.2</idTreb>
+    <idDisc>ЕН.02</idDisc>
+    <text>формулы алгебры высказываний;</text>
+  </treb>
+  <treb>
+    <idTreb>З.3</idTreb>
+    <idDisc>ЕН.02</idDisc>
+    <text>методы минимизации алгебраических преобразований;</text>
+  </treb>
+  <treb>
+    <idTreb>З.4</idTreb>
+    <idDisc>ЕН.02</idDisc>
+    <text>основы языка и алгебры предикатов;</text>
+  </treb>
+  <treb>
+    <idTreb>У.1</idTreb>
+    <idDisc>ЕН.03</idDisc>
+    <text>применять стандартные методы и модели к решению вероятностных и статистических задач;</text>
+  </treb>
+  <treb>
+    <idTreb>У.2</idTreb>
+    <idDisc>ЕН.03</idDisc>
+    <text>пользоваться расчетными формулами, таблицами, графиками при решении статистических задач;</text>
+  </treb>
+  <treb>
+    <idTreb>У.3</idTreb>
+    <idDisc>ЕН.03</idDisc>
+    <text>применять современные пакеты прикладных программ многомерного статистического анализа;</text>
+  </treb>
+  <treb>
+    <idTreb>З.1</idTreb>
+    <idDisc>ЕН.03</idDisc>
+    <text>основные понятия комбинаторики;</text>
+  </treb>
+  <treb>
+    <idTreb>З.2</idTreb>
+    <idDisc>ЕН.03</idDisc>
+    <text>основы теории вероятностей и математической статистики;</text>
+  </treb>
+  <treb>
+    <idTreb>З.3</idTreb>
+    <idDisc>ЕН.03</idDisc>
+    <text>основные понятия теории графов;</text>
+  </treb>
+  <treb>
+    <idTreb>У.1</idTreb>
+    <idDisc>ОП.01</idDisc>
+    <text>управлять параметрами загрузки операционной системы;</text>
+  </treb>
+  <treb>
+    <idTreb>У.2</idTreb>
+    <idDisc>ОП.01</idDisc>
+    <text>выполнять конфигурирование аппаратных устройств;</text>
+  </treb>
+  <treb>
+    <idTreb>У.3</idTreb>
+    <idDisc>ОП.01</idDisc>
+    <text>управлять учетными записями, настраивать параметры рабочей среды пользователей;</text>
+  </treb>
+  <treb>
+    <idTreb>У.4</idTreb>
+    <idDisc>ОП.01</idDisc>
+    <text>управлять дисками и файловыми системами, настраивать сетевые параметры, управлять разделением ресурсов в локальной сети;</text>
+  </treb>
+  <treb>
+    <idTreb>З.1</idTreb>
+    <idDisc>ОП.01</idDisc>
+    <text>основные понятия, функции, состав и принципы работы операционных систем;</text>
+  </treb>
+  <treb>
+    <idTreb>З.2</idTreb>
+    <idDisc>ОП.01</idDisc>
+    <text>архитектуры современных операционных систем;</text>
+  </treb>
+  <treb>
+    <idTreb>З.3</idTreb>
+    <idDisc>ОП.01</idDisc>
+    <text>особенности построения и функционирования семейств операционных систем "Unix" и "Windows";</text>
+  </treb>
+  <treb>
+    <idTreb>З.4</idTreb>
+    <idDisc>ОП.01</idDisc>
+    <text>принципы управления ресурсами в операционной системе;</text>
+  </treb>
+  <treb>
+    <idTreb>З.5</idTreb>
+    <idDisc>ОП.01</idDisc>
+    <text>основные задачи администрирования и способы их выполнения в изучаемых операционные системах;</text>
+  </treb>
+  <treb>
+    <idTreb>У.1</idTreb>
+    <idDisc>ОП.02</idDisc>
+    <text>получать информацию о параметрах компьютерной системы;</text>
+  </treb>
+  <treb>
+    <idTreb>У.2</idTreb>
+    <idDisc>ОП.02</idDisc>
+    <text>подключать дополнительное оборудование и настраивать связь между элементами компьютерной системы;</text>
+  </treb>
+  <treb>
+    <idTreb>У.3</idTreb>
+    <idDisc>ОП.02</idDisc>
+    <text>производить инсталляцию и настройку программного обеспечения компьютерных систем;</text>
+  </treb>
+  <treb>
+    <idTreb>З.1</idTreb>
+    <idDisc>ОП.02</idDisc>
+    <text>базовые понятия и основные принципы построения архитектур вычислительных систем;</text>
+  </treb>
+  <treb>
+    <idTreb>З.2</idTreb>
+    <idDisc>ОП.02</idDisc>
+    <text>типы вычислительных систем и их архитектурные особенности;</text>
+  </treb>
+  <treb>
+    <idTreb>З.3</idTreb>
+    <idDisc>ОП.02</idDisc>
+    <text>организацию и принцип работы основных логических блоков компьютерных систем;</text>
+  </treb>
+  <treb>
+    <idTreb>З.4</idTreb>
+    <idDisc>ОП.02</idDisc>
+    <text>процессы обработки информации на всех уровнях компьютерных архитектур;</text>
+  </treb>
+  <treb>
+    <idTreb>З.5</idTreb>
+    <idDisc>ОП.02</idDisc>
+    <text>основные компоненты программного обеспечения компьютерных систем;</text>
+  </treb>
+  <treb>
+    <idTreb>З.6</idTreb>
+    <idDisc>ОП.02</idDisc>
+    <text>основные принципы управления ресурсами и организации доступа к этим ресурсам;</text>
+  </treb>
+  <treb>
+    <idTreb>У.1</idTreb>
+    <idDisc>ОП.03</idDisc>
+    <text>выбирать рациональную конфигурацию оборудования в соответствии с решаемой задачей;</text>
+  </treb>
+  <treb>
+    <idTreb>У.2</idTreb>
+    <idDisc>ОП.03</idDisc>
+    <text>определять совместимость аппаратного и программного обеспечения;</text>
+  </treb>
+  <treb>
+    <idTreb>У.3</idTreb>
+    <idDisc>ОП.03</idDisc>
+    <text>осуществлять модернизацию аппаратных средств;</text>
+  </treb>
+  <treb>
+    <idTreb>З.1</idTreb>
+    <idDisc>ОП.03</idDisc>
+    <text>основные конструктивные элементы средств вычислительной техники;</text>
+  </treb>
+  <treb>
+    <idTreb>З.2</idTreb>
+    <idDisc>ОП.03</idDisc>
+    <text>периферийные устройства вычислительной техники;</text>
+  </treb>
+  <treb>
+    <idTreb>З.3</idTreb>
+    <idDisc>ОП.03</idDisc>
+    <text>нестандартные периферийные устройства;</text>
+  </treb>
+  <treb>
+    <idTreb>У.1</idTreb>
+    <idDisc>ОП.04</idDisc>
+    <text>обрабатывать текстовую и числовую информацию;</text>
+  </treb>
+  <treb>
+    <idTreb>У.2</idTreb>
+    <idDisc>ОП.04</idDisc>
+    <text>применять мультимедийные технологии обработки и представления информации;</text>
+  </treb>
+  <treb>
+    <idTreb>У.3</idTreb>
+    <idDisc>ОП.04</idDisc>
+    <text>обрабатывать экономическую и статистическую информацию, используя средства пакета прикладных программ;</text>
+  </treb>
+  <treb>
+    <idTreb>З.1</idTreb>
+    <idDisc>ОП.04</idDisc>
+    <text>назначение и виды информационных технологий, технологии сбора, накопления, обработки, передачи и распространения информации;</text>
+  </treb>
+  <treb>
+    <idTreb>З.2</idTreb>
+    <idDisc>ОП.04</idDisc>
+    <text>состав, структуру, принципы реализации и функционирования информационных технологий;</text>
+  </treb>
+  <treb>
+    <idTreb>З.3</idTreb>
+    <idDisc>ОП.04</idDisc>
+    <text>базовые и прикладные информационные технологии;</text>
+  </treb>
+  <treb>
+    <idTreb>З.4</idTreb>
+    <idDisc>ОП.04</idDisc>
+    <text>инструментальные средства информационных технологий;</text>
+  </treb>
+  <treb>
+    <idTreb>У.1</idTreb>
+    <idDisc>ОП.05</idDisc>
+    <text>работать в среде программирования;</text>
+  </treb>
+  <treb>
+    <idTreb>У.2</idTreb>
+    <idDisc>ОП.05</idDisc>
+    <text>реализовывать построенные алгоритмы в виде программ на конкретном языке программирования;</text>
+  </treb>
+  <treb>
+    <idTreb>З.1</idTreb>
+    <idDisc>ОП.05</idDisc>
+    <text>этапы решения задачи на компьютере;</text>
+  </treb>
+  <treb>
+    <idTreb>З.2</idTreb>
+    <idDisc>ОП.05</idDisc>
+    <text>типы данных;</text>
+  </treb>
+  <treb>
+    <idTreb>З.3</idTreb>
+    <idDisc>ОП.05</idDisc>
+    <text>базовые конструкции изучаемых языков программирования;</text>
+  </treb>
+  <treb>
+    <idTreb>З.4</idTreb>
+    <idDisc>ОП.05</idDisc>
+    <text>принципы структурного и модульного программирования;</text>
+  </treb>
+  <treb>
+    <idTreb>З.5</idTreb>
+    <idDisc>ОП.05</idDisc>
+    <text>принципы объектно-ориентированного программирования;</text>
+  </treb>
+  <treb>
+    <idTreb>У.1</idTreb>
+    <idDisc>ОП.06</idDisc>
+    <text>находить и использовать необходимую экономическую информацию;</text>
+  </treb>
+  <treb>
+    <idTreb>У.2</idTreb>
+    <idDisc>ОП.06</idDisc>
+    <text>рассчитывать по принятой методологии основные технико-экономические показатели деятельности организации;</text>
+  </treb>
+  <treb>
+    <idTreb>З.1</idTreb>
+    <idDisc>ОП.06</idDisc>
+    <text>общие положения экономической теории;</text>
+  </treb>
+  <treb>
+    <idTreb>З.2</idTreb>
+    <idDisc>ОП.06</idDisc>
+    <text>организацию производственного и технологического процессов;</text>
+  </treb>
+  <treb>
+    <idTreb>З.3</idTreb>
+    <idDisc>ОП.06</idDisc>
+    <text>механизмы ценообразования на продукцию (услуги), формы оплаты труда в современных условиях;</text>
+  </treb>
+  <treb>
+    <idTreb>З.4</idTreb>
+    <idDisc>ОП.06</idDisc>
+    <text>материально-технические, трудовые и финансовые ресурсы отрасли и организации, показатели их эффективного использования;</text>
+  </treb>
+  <treb>
+    <idTreb>З.5</idTreb>
+    <idDisc>ОП.06</idDisc>
+    <text>методику разработки бизнес-плана;</text>
+  </treb>
+  <treb>
+    <idTreb>У.1</idTreb>
+    <idDisc>ОП.07</idDisc>
+    <text>защищать свои права в соответствии с трудовым законодательством;</text>
+  </treb>
+  <treb>
+    <idTreb>З.1</idTreb>
+    <idDisc>ОП.07</idDisc>
+    <text>права и обязанности работников в сфере профессиональной деятельности;</text>
+  </treb>
+  <treb>
+    <idTreb>З.2</idTreb>
+    <idDisc>ОП.07</idDisc>
+    <text>законодательные акты и другие нормативные правовые акты, регулирующие правоотношения в процессе профессиональной деятельности;</text>
+  </treb>
+  <treb>
+    <idTreb>У.1</idTreb>
+    <idDisc>ОП.08</idDisc>
+    <text>разрабатывать алгоритмы для конкретных задач;</text>
+  </treb>
+  <treb>
+    <idTreb>У.2</idTreb>
+    <idDisc>ОП.08</idDisc>
+    <text>определять сложность работы алгоритмов;</text>
+  </treb>
+  <treb>
+    <idTreb>З.1</idTreb>
+    <idDisc>ОП.08</idDisc>
+    <text>основные модели алгоритмов;</text>
+  </treb>
+  <treb>
+    <idTreb>З.2</idTreb>
+    <idDisc>ОП.08</idDisc>
+    <text>методы построения алгоритмов;</text>
+  </treb>
+  <treb>
+    <idTreb>З.3</idTreb>
+    <idDisc>ОП.08</idDisc>
+    <text>методы вычисления сложности работы алгоритмов;</text>
+  </treb>
+  <treb>
+    <idTreb>У.1</idTreb>
+    <idDisc>ОП.09</idDisc>
+    <text>организовывать и проводить мероприятия по защите работников и населения от негативных воздействий чрезвычайных ситуаций;</text>
+  </treb>
+  <treb>
+    <idTreb>У.2</idTreb>
+    <idDisc>ОП.09</idDisc>
+    <text>предпринимать профилактические меры для снижения уровня опасностей различного вида и их последствий в профессиональной деятельности и быту;</text>
+  </treb>
+  <treb>
+    <idTreb>У.3</idTreb>
+    <idDisc>ОП.09</idDisc>
+    <text>использовать средства индивидуальной и коллективной защиты от оружия массового поражения;</text>
+  </treb>
+  <treb>
+    <idTreb>У.4</idTreb>
+    <idDisc>ОП.09</idDisc>
+    <text>применять первичные средства пожаротушения;</text>
+  </treb>
+  <treb>
+    <idTreb>У.5</idTreb>
+    <idDisc>ОП.09</idDisc>
+    <text>ориентироваться в перечне военно-учетных специальностей и самостоятельно определять среди них родственные полученной специальности;</text>
+  </treb>
+  <treb>
+    <idTreb>У.6</idTreb>
+    <idDisc>ОП.09</idDisc>
+    <text>применять профессиональные знания в ходе исполнения обязанностей военной службы на воинских должностях в соответствии с полученной специальностью;</text>
+  </treb>
+  <treb>
+    <idTreb>У.7</idTreb>
+    <idDisc>ОП.09</idDisc>
+    <text>владеть способами бесконфликтного общения и саморегуляции в повседневной деятельности и экстремальных условиях военной службы;</text>
+  </treb>
+  <treb>
+    <idTreb>У.8</idTreb>
+    <idDisc>ОП.09</idDisc>
+    <text>оказывать первую помощь пострадавшим;</text>
+  </treb>
+  <treb>
+    <idTreb>З.1</idTreb>
+    <idDisc>ОП.09</idDisc>
+    <text>принципы обеспечения устойчивости объектов экономики, прогнозирования развития событий и оценки последствий при техногенных чрезвычайных ситуациях и стихийных явлениях, в том числе в условиях противодействия терроризму как серьезной угрозе национальной безопасности России;</text>
+  </treb>
+  <treb>
+    <idTreb>З.2</idTreb>
+    <idDisc>ОП.09</idDisc>
+    <text>основные виды потенциальных опасностей и их последствия в профессиональной деятельности и быту, принципы снижения вероятности их реализации;</text>
+  </treb>
+  <treb>
+    <idTreb>З.3</idTreb>
+    <idDisc>ОП.09</idDisc>
+    <text>основы военной службы и обороны государства;</text>
+  </treb>
+  <treb>
+    <idTreb>З.4</idTreb>
+    <idDisc>ОП.09</idDisc>
+    <text>задачи и основные мероприятия гражданской обороны;</text>
+  </treb>
+  <treb>
+    <idTreb>З.5</idTreb>
+    <idDisc>ОП.09</idDisc>
+    <text>способы защиты населения от оружия массового поражения;</text>
+  </treb>
+  <treb>
+    <idTreb>З.6</idTreb>
+    <idDisc>ОП.09</idDisc>
+    <text>меры пожарной безопасности и правила безопасного поведения при пожарах;</text>
+  </treb>
+  <treb>
+    <idTreb>З.7</idTreb>
+    <idDisc>ОП.09</idDisc>
+    <text>организацию и порядок призыва граждан на военную службу и поступления на нее в добровольном порядке;</text>
+  </treb>
+  <treb>
+    <idTreb>З.8</idTreb>
+    <idDisc>ОП.09</idDisc>
+    <text>основные виды вооружения, военной техники и специального снаряжения, состоящие на вооружении (оснащении) воинских подразделений, в которых имеются военно-учетные специальности, родственные специальностям СПО;</text>
+  </treb>
+  <treb>
+    <idTreb>З.9</idTreb>
+    <idDisc>ОП.09</idDisc>
+    <text>область применения получаемых профессиональных знаний при исполнении обязанностей военной службы;</text>
+  </treb>
+  <treb>
+    <idTreb>З.10</idTreb>
+    <idDisc>ОП.09</idDisc>
+    <text>порядок и правила оказания первой помощи пострадавшим.</text>
+  </treb>
+  <treb>
+    <idTreb>ПО.1</idTreb>
+    <idDisc>ПМ.01</idDisc>
+    <text>разработки алгоритма поставленной задачи и реализации его средствами автоматизированного проектирования;</text>
+  </treb>
+  <treb>
+    <idTreb>ПО.2</idTreb>
+    <idDisc>ПМ.01</idDisc>
+    <text>разработки кода программного продукта на основе готовой спецификации на уровне модуля;</text>
+  </treb>
+  <treb>
+    <idTreb>ПО.3</idTreb>
+    <idDisc>ПМ.01</idDisc>
+    <text>использования инструментальных средств на этапе отладки программного продукта;</text>
+  </treb>
+  <treb>
+    <idTreb>ПО.4</idTreb>
+    <idDisc>ПМ.01</idDisc>
+    <text>проведения тестирования программного модуля по определенному сценарию;</text>
+  </treb>
+  <treb>
+    <idTreb>У.1</idTreb>
+    <idDisc>ПМ.01</idDisc>
+    <text>осуществлять разработку кода программного модуля на современных языках программирования;</text>
+  </treb>
+  <treb>
+    <idTreb>У.2</idTreb>
+    <idDisc>ПМ.01</idDisc>
+    <text>создавать программу по разработанному алгоритму как отдельный модуль;</text>
+  </treb>
+  <treb>
+    <idTreb>У.3</idTreb>
+    <idDisc>ПМ.01</idDisc>
+    <text>выполнять отладку и тестирование программы на уровне модуля;</text>
+  </treb>
+  <treb>
+    <idTreb>У.4</idTreb>
+    <idDisc>ПМ.01</idDisc>
+    <text>оформлять документацию на программные средства;</text>
+  </treb>
+  <treb>
+    <idTreb>У.5</idTreb>
+    <idDisc>ПМ.01</idDisc>
+    <text>использовать инструментальные средства для автоматизации оформления документации;</text>
+  </treb>
+  <treb>
+    <idTreb>З.1</idTreb>
+    <idDisc>ПМ.01</idDisc>
+    <text>основные этапы разработки программного обеспечения;</text>
+  </treb>
+  <treb>
+    <idTreb>З.2</idTreb>
+    <idDisc>ПМ.01</idDisc>
+    <text>основные принципы технологии структурного и объектно-ориентированного программирования;</text>
+  </treb>
+  <treb>
+    <idTreb>З.3</idTreb>
+    <idDisc>ПМ.01</idDisc>
+    <text>основные принципы отладки и тестирования программных продуктов;</text>
+  </treb>
+  <treb>
+    <idTreb>З.4</idTreb>
+    <idDisc>ПМ.01</idDisc>
+    <text>методы и средства разработки технической документации.</text>
+  </treb>
+  <treb>
+    <idTreb>ПО.1</idTreb>
+    <idDisc>ПМ.02</idDisc>
+    <text>работы с объектами базы данных в конкретной системе управления базами данных;</text>
+  </treb>
+  <treb>
+    <idTreb>ПО.2</idTreb>
+    <idDisc>ПМ.02</idDisc>
+    <text>использования средств заполнения базы данных;</text>
+  </treb>
+  <treb>
+    <idTreb>ПО.3</idTreb>
+    <idDisc>ПМ.02</idDisc>
+    <text>использования стандартных методов защиты объектов базы данных;</text>
+  </treb>
+  <treb>
+    <idTreb>У.1</idTreb>
+    <idDisc>ПМ.02</idDisc>
+    <text>создавать объекты баз данных в современных СУБД и управлять доступом к этим объектам;</text>
+  </treb>
+  <treb>
+    <idTreb>У.2</idTreb>
+    <idDisc>ПМ.02</idDisc>
+    <text>работать с современными case-средствами проектирования баз данных;</text>
+  </treb>
+  <treb>
+    <idTreb>У.3</idTreb>
+    <idDisc>ПМ.02</idDisc>
+    <text>формировать и настраивать схему базы данных;</text>
+  </treb>
+  <treb>
+    <idTreb>У.4</idTreb>
+    <idDisc>ПМ.02</idDisc>
+    <text>разрабатывать прикладные программы с использованием языка SQL;</text>
+  </treb>
+  <treb>
+    <idTreb>У.5</idTreb>
+    <idDisc>ПМ.02</idDisc>
+    <text>создавать хранимые процедуры и триггеры на базах данных;</text>
+  </treb>
+  <treb>
+    <idTreb>У.6</idTreb>
+    <idDisc>ПМ.02</idDisc>
+    <text>применять стандартные методы для защиты объектов базы данных;</text>
+  </treb>
+  <treb>
+    <idTreb>З.1</idTreb>
+    <idDisc>ПМ.02</idDisc>
+    <text>основные положения теории баз данных, хранилищ данных, баз знаний;</text>
+  </treb>
+  <treb>
+    <idTreb>З.2</idTreb>
+    <idDisc>ПМ.02</idDisc>
+    <text>основные принципы построения концептуальной, логической и физической модели данных;</text>
+  </treb>
+  <treb>
+    <idTreb>З.3</idTreb>
+    <idDisc>ПМ.02</idDisc>
+    <text>современные инструментальные средства разработки схемы базы данных;</text>
+  </treb>
+  <treb>
+    <idTreb>З.4</idTreb>
+    <idDisc>ПМ.02</idDisc>
+    <text>методы описания схем баз данных в современных СУБД;</text>
+  </treb>
+  <treb>
+    <idTreb>З.5</idTreb>
+    <idDisc>ПМ.02</idDisc>
+    <text>структуры данных СУБД, общий подход к организации представлений, таблиц, индексов и кластеров;</text>
+  </treb>
+  <treb>
+    <idTreb>З.6</idTreb>
+    <idDisc>ПМ.02</idDisc>
+    <text>методы организации целостности данных;</text>
+  </treb>
+  <treb>
+    <idTreb>З.7</idTreb>
+    <idDisc>ПМ.02</idDisc>
+    <text>способы контроля доступа к данным и управления привилегиями;</text>
+  </treb>
+  <treb>
+    <idTreb>З.8</idTreb>
+    <idDisc>ПМ.02</idDisc>
+    <text>основные методы и средства защиты данных в базах данных;</text>
+  </treb>
+  <treb>
+    <idTreb>З.9</idTreb>
+    <idDisc>ПМ.02</idDisc>
+    <text>модели и структуры информационных систем;</text>
+  </treb>
+  <treb>
+    <idTreb>З.10</idTreb>
+    <idDisc>ПМ.02</idDisc>
+    <text>основные типы сетевых топологий, приемы работы в компьютерных сетях;</text>
+  </treb>
+  <treb>
+    <idTreb>З.11</idTreb>
+    <idDisc>ПМ.02</idDisc>
+    <text>информационные ресурсы компьютерных сетей;</text>
+  </treb>
+  <treb>
+    <idTreb>З.12</idTreb>
+    <idDisc>ПМ.02</idDisc>
+    <text>технологии передачи и обмена данными в компьютерных сетях;</text>
+  </treb>
+  <treb>
+    <idTreb>З.13</idTreb>
+    <idDisc>ПМ.02</idDisc>
+    <text>основы разработки приложений баз данных.</text>
+  </treb>
+  <treb>
+    <idTreb>ПО.1</idTreb>
+    <idDisc>ПМ.03</idDisc>
+    <text>участия в выработке требований к программному обеспечению;</text>
+  </treb>
+  <treb>
+    <idTreb>ПО.2</idTreb>
+    <idDisc>ПМ.03</idDisc>
+    <text>участия в проектировании программного обеспечения с использованием специализированных программных пакетов;</text>
+  </treb>
+  <treb>
+    <idTreb>У.1</idTreb>
+    <idDisc>ПМ.03</idDisc>
+    <text>владеть основными методологиями процессов разработки программного обеспечения;</text>
+  </treb>
+  <treb>
+    <idTreb>У.2</idTreb>
+    <idDisc>ПМ.03</idDisc>
+    <text>использовать методы для получения кода с заданной функциональностью и степенью качества;</text>
+  </treb>
+  <treb>
+    <idTreb>З.1</idTreb>
+    <idDisc>ПМ.03</idDisc>
+    <text>модели процесса разработки программного обеспечения;</text>
+  </treb>
+  <treb>
+    <idTreb>З.2</idTreb>
+    <idDisc>ПМ.03</idDisc>
+    <text>основные принципы процесса разработки программного обеспечения;</text>
+  </treb>
+  <treb>
+    <idTreb>З.3</idTreb>
+    <idDisc>ПМ.03</idDisc>
+    <text>основные подходы к интегрированию программных модулей;</text>
+  </treb>
+  <treb>
+    <idTreb>З.4</idTreb>
+    <idDisc>ПМ.03</idDisc>
+    <text>основные методы и средства эффективной разработки;</text>
+  </treb>
+  <treb>
+    <idTreb>З.5</idTreb>
+    <idDisc>ПМ.03</idDisc>
+    <text>основы верификации и аттестации программного обеспечения;</text>
+  </treb>
+  <treb>
+    <idTreb>З.6</idTreb>
+    <idDisc>ПМ.03</idDisc>
+    <text>концепции и реализации программных процессов;</text>
+  </treb>
+  <treb>
+    <idTreb>З.7</idTreb>
+    <idDisc>ПМ.03</idDisc>
+    <text>принципы построения, структуры и приемы работы с инструментальными средствами, поддерживающими создание программного обеспечения;</text>
+  </treb>
+  <treb>
+    <idTreb>З.8</idTreb>
+    <idDisc>ПМ.03</idDisc>
+    <text>методы организации работы в коллективах разработчиков программного обеспечения;</text>
+  </treb>
+  <treb>
+    <idTreb>З.9</idTreb>
+    <idDisc>ПМ.03</idDisc>
+    <text>основные положения метрологии программных продуктов, принципы построения, проектирования и использования средств для измерений характеристик и параметров программ, программных систем и комплексов;</text>
+  </treb>
+  <treb>
+    <idTreb>З.10</idTreb>
+    <idDisc>ПМ.03</idDisc>
+    <text>стандарты качества программного обеспечения;</text>
+  </treb>
+  <treb>
+    <idTreb>З.11</idTreb>
+    <idDisc>ПМ.03</idDisc>
+    <text>методы и средства разработки программной документации.</text>
+  </treb>
+  <ok>
+    <idOk>ОК 1</idOk>
+    <text>Понимать сущность и социальную значимость своей будущей профессии, проявлять к ней устойчивый интерес.</text>
+  </ok>
+  <ok>
+    <idOk>ОК 2</idOk>
+    <text>Организовывать собственную деятельность, выбирать типовые методы и способы выполнения профессиональных задач, оценивать их эффективность и качество.</text>
+  </ok>
+  <ok>
+    <idOk>ОК 3</idOk>
+    <text>Принимать решения в стандартных и нестандартных ситуациях и нести за них ответственность.</text>
+  </ok>
+  <ok>
+    <idOk>ОК 4</idOk>
+    <text>Осуществлять поиск и использование информации, необходимой для эффективного выполнения профессиональных задач, профессионального и личностного развития.</text>
+  </ok>
+  <ok>
+    <idOk>ОК 5</idOk>
+    <text>Использовать информационно-коммуникационные технологии в профессиональной деятельности.</text>
+  </ok>
+  <ok>
+    <idOk>ОК 6</idOk>
+    <text>Работать в коллективе и в команде, эффективно общаться с коллегами, руководством, потребителями.</text>
+  </ok>
+  <ok>
+    <idOk>ОК 7</idOk>
+    <text>Брать на себя ответственность за работу членов команды (подчиненных), за результат выполнения заданий.</text>
+  </ok>
+  <ok>
+    <idOk>ОК 8</idOk>
+    <text>Самостоятельно определять задачи профессионального и личностного развития, заниматься самообразованием, осознанно планировать повышение квалификации.</text>
+  </ok>
+  <ok>
+    <idOk>ОК 9</idOk>
+    <text>Ориентироваться в условиях частой смены технологий в профессиональной деятельности.</text>
+  </ok>
+  <pk>
+    <idPk>ПК 1.1</idPk>
+    <text>Выполнять разработку спецификаций отдельных компонент.</text>
+  </pk>
+  <pk>
+    <idPk>ПК 1.2</idPk>
+    <text>Осуществлять разработку кода программного продукта на основе готовых спецификаций на уровне модуля.</text>
+  </pk>
+  <pk>
+    <idPk>ПК 1.3</idPk>
+    <text>Выполнять отладку программных модулей с использованием специализированных программных средств.</text>
+  </pk>
+  <pk>
+    <idPk>ПК 1.4</idPk>
+    <text>Выполнять тестирование программных модулей.</text>
+  </pk>
+  <pk>
+    <idPk>ПК 1.5</idPk>
+    <text>Осуществлять оптимизацию программного кода модуля.</text>
+  </pk>
+  <pk>
+    <idPk>ПК 1.6</idPk>
+    <text>Разрабатывать компоненты проектной и технической документации с использованием графических языков спецификаций.</text>
+  </pk>
+  <pk>
+    <idPk>ПК 2.1</idPk>
+    <text>Разрабатывать объекты базы данных.</text>
+  </pk>
+  <pk>
+    <idPk>ПК 2.2</idPk>
+    <text>Реализовывать базу данных в конкретной системе управления базами данных (далее - СУБД).</text>
+  </pk>
+  <pk>
+    <idPk>ПК 2.3</idPk>
+    <text>Решать вопросы администрирования базы данных.</text>
+  </pk>
+  <pk>
+    <idPk>ПК 2.4</idPk>
+    <text>Реализовывать методы и технологии защиты информации в базах данных.</text>
+  </pk>
+  <pk>
+    <idPk>ПК 3.1</idPk>
+    <text>Анализировать проектную и техническую документацию на уровне взаимодействия компонент программного обеспечения.</text>
+  </pk>
+  <pk>
+    <idPk>ПК 3.2</idPk>
+    <text>Выполнять интеграцию модулей в программную систему.</text>
+  </pk>
+  <pk>
+    <idPk>ПК 3.3</idPk>
+    <text>Выполнять отладку программного продукта с использованием специализированных программных средств.</text>
+  </pk>
+  <pk>
+    <idPk>ПК 3.4</idPk>
+    <text>Осуществлять разработку тестовых наборов и тестовых сценариев.</text>
+  </pk>
+  <pk>
+    <idPk>ПК 3.5</idPk>
+    <text>Производить инспектирование компонент программного продукта на предмет соответствия стандартам кодирования.</text>
+  </pk>
+  <pk>
+    <idPk>ПК 3.6</idPk>
+    <text>Разрабатывать технологическую документацию.</text>
+  </pk>
+  <okDisc>
+    <idOk>ОК 1</idOk>
+    <idDisc>ОГСЭ.01</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 2</idOk>
+    <idDisc>ОГСЭ.01</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 3</idOk>
+    <idDisc>ОГСЭ.01</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 4</idOk>
+    <idDisc>ОГСЭ.01</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 5</idOk>
+    <idDisc>ОГСЭ.01</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 6</idOk>
+    <idDisc>ОГСЭ.01</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 7</idOk>
+    <idDisc>ОГСЭ.01</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 8</idOk>
+    <idDisc>ОГСЭ.01</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 9</idOk>
+    <idDisc>ОГСЭ.01</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 1</idOk>
+    <idDisc>ОГСЭ.02</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 2</idOk>
+    <idDisc>ОГСЭ.02</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 3</idOk>
+    <idDisc>ОГСЭ.02</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 4</idOk>
+    <idDisc>ОГСЭ.02</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 5</idOk>
+    <idDisc>ОГСЭ.02</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 6</idOk>
+    <idDisc>ОГСЭ.02</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 7</idOk>
+    <idDisc>ОГСЭ.02</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 8</idOk>
+    <idDisc>ОГСЭ.02</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 9</idOk>
+    <idDisc>ОГСЭ.02</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 1</idOk>
+    <idDisc>ОГСЭ.03</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 2</idOk>
+    <idDisc>ОГСЭ.03</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 3</idOk>
+    <idDisc>ОГСЭ.03</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 4</idOk>
+    <idDisc>ОГСЭ.03</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 5</idOk>
+    <idDisc>ОГСЭ.03</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 6</idOk>
+    <idDisc>ОГСЭ.03</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 7</idOk>
+    <idDisc>ОГСЭ.03</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 8</idOk>
+    <idDisc>ОГСЭ.03</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 9</idOk>
+    <idDisc>ОГСЭ.03</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 2</idOk>
+    <idDisc>ОГСЭ.04</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 3</idOk>
+    <idDisc>ОГСЭ.04</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 6</idOk>
+    <idDisc>ОГСЭ.04</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 1</idOk>
+    <idDisc>ЕН.01</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 2</idOk>
+    <idDisc>ЕН.01</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 3</idOk>
+    <idDisc>ЕН.01</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 4</idOk>
+    <idDisc>ЕН.01</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 5</idOk>
+    <idDisc>ЕН.01</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 6</idOk>
+    <idDisc>ЕН.01</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 7</idOk>
+    <idDisc>ЕН.01</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 8</idOk>
+    <idDisc>ЕН.01</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 9</idOk>
+    <idDisc>ЕН.01</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 1</idOk>
+    <idDisc>ЕН.02</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 2</idOk>
+    <idDisc>ЕН.02</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 3</idOk>
+    <idDisc>ЕН.02</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 4</idOk>
+    <idDisc>ЕН.02</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 5</idOk>
+    <idDisc>ЕН.02</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 6</idOk>
+    <idDisc>ЕН.02</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 7</idOk>
+    <idDisc>ЕН.02</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 8</idOk>
+    <idDisc>ЕН.02</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 9</idOk>
+    <idDisc>ЕН.02</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 1</idOk>
+    <idDisc>ЕН.03</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 2</idOk>
+    <idDisc>ЕН.03</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 3</idOk>
+    <idDisc>ЕН.03</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 4</idOk>
+    <idDisc>ЕН.03</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 5</idOk>
+    <idDisc>ЕН.03</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 6</idOk>
+    <idDisc>ЕН.03</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 7</idOk>
+    <idDisc>ЕН.03</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 8</idOk>
+    <idDisc>ЕН.03</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 9</idOk>
+    <idDisc>ЕН.03</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 1</idOk>
+    <idDisc>ОП.01</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 2</idOk>
+    <idDisc>ОП.01</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 3</idOk>
+    <idDisc>ОП.01</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 4</idOk>
+    <idDisc>ОП.01</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 5</idOk>
+    <idDisc>ОП.01</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 6</idOk>
+    <idDisc>ОП.01</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 7</idOk>
+    <idDisc>ОП.01</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 8</idOk>
+    <idDisc>ОП.01</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 9</idOk>
+    <idDisc>ОП.01</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 1</idOk>
+    <idDisc>ОП.02</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 2</idOk>
+    <idDisc>ОП.02</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 3</idOk>
+    <idDisc>ОП.02</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 4</idOk>
+    <idDisc>ОП.02</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 5</idOk>
+    <idDisc>ОП.02</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 6</idOk>
+    <idDisc>ОП.02</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 7</idOk>
+    <idDisc>ОП.02</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 8</idOk>
+    <idDisc>ОП.02</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 9</idOk>
+    <idDisc>ОП.02</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 1</idOk>
+    <idDisc>ОП.03</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 2</idOk>
+    <idDisc>ОП.03</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 3</idOk>
+    <idDisc>ОП.03</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 4</idOk>
+    <idDisc>ОП.03</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 5</idOk>
+    <idDisc>ОП.03</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 6</idOk>
+    <idDisc>ОП.03</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 7</idOk>
+    <idDisc>ОП.03</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 8</idOk>
+    <idDisc>ОП.03</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 9</idOk>
+    <idDisc>ОП.03</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 1</idOk>
+    <idDisc>ОП.04</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 2</idOk>
+    <idDisc>ОП.04</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 3</idOk>
+    <idDisc>ОП.04</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 4</idOk>
+    <idDisc>ОП.04</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 5</idOk>
+    <idDisc>ОП.04</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 6</idOk>
+    <idDisc>ОП.04</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 7</idOk>
+    <idDisc>ОП.04</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 8</idOk>
+    <idDisc>ОП.04</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 9</idOk>
+    <idDisc>ОП.04</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 1</idOk>
+    <idDisc>ОП.05</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 2</idOk>
+    <idDisc>ОП.05</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 3</idOk>
+    <idDisc>ОП.05</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 4</idOk>
+    <idDisc>ОП.05</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 5</idOk>
+    <idDisc>ОП.05</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 6</idOk>
+    <idDisc>ОП.05</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 7</idOk>
+    <idDisc>ОП.05</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 8</idOk>
+    <idDisc>ОП.05</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 9</idOk>
+    <idDisc>ОП.05</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 1</idOk>
+    <idDisc>ОП.06</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 2</idOk>
+    <idDisc>ОП.06</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 3</idOk>
+    <idDisc>ОП.06</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 4</idOk>
+    <idDisc>ОП.06</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 5</idOk>
+    <idDisc>ОП.06</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 6</idOk>
+    <idDisc>ОП.06</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 7</idOk>
+    <idDisc>ОП.06</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 8</idOk>
+    <idDisc>ОП.06</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 9</idOk>
+    <idDisc>ОП.06</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 1</idOk>
+    <idDisc>ОП.07</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 2</idOk>
+    <idDisc>ОП.07</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 3</idOk>
+    <idDisc>ОП.07</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 4</idOk>
+    <idDisc>ОП.07</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 5</idOk>
+    <idDisc>ОП.07</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 6</idOk>
+    <idDisc>ОП.07</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 7</idOk>
+    <idDisc>ОП.07</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 8</idOk>
+    <idDisc>ОП.07</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 9</idOk>
+    <idDisc>ОП.07</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 1</idOk>
+    <idDisc>ОП.08</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 2</idOk>
+    <idDisc>ОП.08</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 3</idOk>
+    <idDisc>ОП.08</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 4</idOk>
+    <idDisc>ОП.08</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 5</idOk>
+    <idDisc>ОП.08</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 6</idOk>
+    <idDisc>ОП.08</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 7</idOk>
+    <idDisc>ОП.08</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 8</idOk>
+    <idDisc>ОП.08</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 9</idOk>
+    <idDisc>ОП.08</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 1</idOk>
+    <idDisc>ОП.09</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 2</idOk>
+    <idDisc>ОП.09</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 3</idOk>
+    <idDisc>ОП.09</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 4</idOk>
+    <idDisc>ОП.09</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 5</idOk>
+    <idDisc>ОП.09</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 6</idOk>
+    <idDisc>ОП.09</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 7</idOk>
+    <idDisc>ОП.09</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 8</idOk>
+    <idDisc>ОП.09</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 9</idOk>
+    <idDisc>ОП.09</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 1</idOk>
+    <idDisc>ПМ.01</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 2</idOk>
+    <idDisc>ПМ.01</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 3</idOk>
+    <idDisc>ПМ.01</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 4</idOk>
+    <idDisc>ПМ.01</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 5</idOk>
+    <idDisc>ПМ.01</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 6</idOk>
+    <idDisc>ПМ.01</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 7</idOk>
+    <idDisc>ПМ.01</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 8</idOk>
+    <idDisc>ПМ.01</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 9</idOk>
+    <idDisc>ПМ.01</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 1</idOk>
+    <idDisc>ПМ.02</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 2</idOk>
+    <idDisc>ПМ.02</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 3</idOk>
+    <idDisc>ПМ.02</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 4</idOk>
+    <idDisc>ПМ.02</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 5</idOk>
+    <idDisc>ПМ.02</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 6</idOk>
+    <idDisc>ПМ.02</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 7</idOk>
+    <idDisc>ПМ.02</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 8</idOk>
+    <idDisc>ПМ.02</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 9</idOk>
+    <idDisc>ПМ.02</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 1</idOk>
+    <idDisc>ПМ.03</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 2</idOk>
+    <idDisc>ПМ.03</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 3</idOk>
+    <idDisc>ПМ.03</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 4</idOk>
+    <idDisc>ПМ.03</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 5</idOk>
+    <idDisc>ПМ.03</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 6</idOk>
+    <idDisc>ПМ.03</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 7</idOk>
+    <idDisc>ПМ.03</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 8</idOk>
+    <idDisc>ПМ.03</idDisc>
+  </okDisc>
+  <okDisc>
+    <idOk>ОК 9</idOk>
+    <idDisc>ПМ.03</idDisc>
+  </okDisc>
+  <pkDisc>
+    <idPk>ПК 1.1</idPk>
+    <idDisc>ЕН.01</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 1.2</idPk>
+    <idDisc>ЕН.01</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 2.4</idPk>
+    <idDisc>ЕН.01</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 3.4</idPk>
+    <idDisc>ЕН.01</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 1.1</idPk>
+    <idDisc>ЕН.02</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 1.2</idPk>
+    <idDisc>ЕН.02</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 2.4</idPk>
+    <idDisc>ЕН.02</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 3.4</idPk>
+    <idDisc>ЕН.02</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 1.1</idPk>
+    <idDisc>ЕН.03</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 1.2</idPk>
+    <idDisc>ЕН.03</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 2.4</idPk>
+    <idDisc>ЕН.03</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 3.4</idPk>
+    <idDisc>ЕН.03</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 1.3</idPk>
+    <idDisc>ОП.01</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 2.3</idPk>
+    <idDisc>ОП.01</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 3.2</idPk>
+    <idDisc>ОП.01</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 3.3</idPk>
+    <idDisc>ОП.01</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 1.1</idPk>
+    <idDisc>ОП.02</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 1.2</idPk>
+    <idDisc>ОП.02</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 1.5</idPk>
+    <idDisc>ОП.02</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 2.3</idPk>
+    <idDisc>ОП.02</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 2.4</idPk>
+    <idDisc>ОП.02</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 3.1</idPk>
+    <idDisc>ОП.02</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 3.2</idPk>
+    <idDisc>ОП.02</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 3.4</idPk>
+    <idDisc>ОП.02</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 1.5</idPk>
+    <idDisc>ОП.03</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 2.3</idPk>
+    <idDisc>ОП.03</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 3.2</idPk>
+    <idDisc>ОП.03</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 3.3</idPk>
+    <idDisc>ОП.03</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 1.6</idPk>
+    <idDisc>ОП.04</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 3.1</idPk>
+    <idDisc>ОП.04</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 3.2</idPk>
+    <idDisc>ОП.04</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 3.4</idPk>
+    <idDisc>ОП.04</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 1.1</idPk>
+    <idDisc>ОП.05</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 1.2</idPk>
+    <idDisc>ОП.05</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 1.3</idPk>
+    <idDisc>ОП.05</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 1.4</idPk>
+    <idDisc>ОП.05</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 1.5</idPk>
+    <idDisc>ОП.05</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 3.1</idPk>
+    <idDisc>ОП.05</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 2.3</idPk>
+    <idDisc>ОП.06</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 2.4</idPk>
+    <idDisc>ОП.06</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 2.4</idPk>
+    <idDisc>ОП.07</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 3.6</idPk>
+    <idDisc>ОП.07</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 1.1</idPk>
+    <idDisc>ОП.08</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 1.2</idPk>
+    <idDisc>ОП.08</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 1.1</idPk>
+    <idDisc>ОП.09</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 1.2</idPk>
+    <idDisc>ОП.09</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 1.3</idPk>
+    <idDisc>ОП.09</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 1.4</idPk>
+    <idDisc>ОП.09</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 1.5</idPk>
+    <idDisc>ОП.09</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 1.6</idPk>
+    <idDisc>ОП.09</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 2.1</idPk>
+    <idDisc>ОП.09</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 2.2</idPk>
+    <idDisc>ОП.09</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 2.3</idPk>
+    <idDisc>ОП.09</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 2.4</idPk>
+    <idDisc>ОП.09</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 3.1</idPk>
+    <idDisc>ОП.09</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 3.2</idPk>
+    <idDisc>ОП.09</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 3.3</idPk>
+    <idDisc>ОП.09</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 3.4</idPk>
+    <idDisc>ОП.09</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 3.5</idPk>
+    <idDisc>ОП.09</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 3.6</idPk>
+    <idDisc>ОП.09</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 1.1</idPk>
+    <idDisc>ПМ.01</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 1.2</idPk>
+    <idDisc>ПМ.01</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 1.3</idPk>
+    <idDisc>ПМ.01</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 1.4</idPk>
+    <idDisc>ПМ.01</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 1.5</idPk>
+    <idDisc>ПМ.01</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 1.6</idPk>
+    <idDisc>ПМ.01</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 2.1</idPk>
+    <idDisc>ПМ.02</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 2.2</idPk>
+    <idDisc>ПМ.02</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 2.3</idPk>
+    <idDisc>ПМ.02</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 2.4</idPk>
+    <idDisc>ПМ.02</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 3.1</idPk>
+    <idDisc>ПМ.03</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 3.2</idPk>
+    <idDisc>ПМ.03</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 3.3</idPk>
+    <idDisc>ПМ.03</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 3.4</idPk>
+    <idDisc>ПМ.03</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 3.5</idPk>
+    <idDisc>ПМ.03</idDisc>
+  </pkDisc>
+  <pkDisc>
+    <idPk>ПК 3.6</idPk>
+    <idDisc>ПМ.03</idDisc>
+  </pkDisc>
+  <spec>
+    <name>09.02.03 Программирование в компьютерных системах</name>
+  </spec>
+  <mdk>
+    <idMdk>МДК.01.01</idMdk>
+    <idDisc>ПМ.01</idDisc>
+    <name>Системное программирование</name>
+  </mdk>
+  <mdk>
+    <idMdk>МДК.01.02</idMdk>
+    <idDisc>ПМ.01</idDisc>
+    <name>Прикладное программирование</name>
+  </mdk>
+  <mdk>
+    <idMdk>МДК.02.01</idMdk>
+    <idDisc>ПМ.02</idDisc>
+    <name>Инфокоммуникационные системы и сети</name>
+  </mdk>
+  <mdk>
+    <idMdk>МДК.02.02</idMdk>
+    <idDisc>ПМ.02</idDisc>
+    <name>Технология разработки и защиты баз данных</name>
+  </mdk>
+  <mdk>
+    <idMdk>МДК.03.01</idMdk>
+    <idDisc>ПМ.03</idDisc>
+    <name>Технология разработки программного обеспечения</name>
+  </mdk>
+  <mdk>
+    <idMdk>МДК.03.02</idMdk>
+    <idDisc>ПМ.03</idDisc>
+    <name>Инструментальные средства разработки программного обеспечения</name>
+  </mdk>
+  <mdk>
+    <idMdk>МДК.03.03</idMdk>
+    <idDisc>ПМ.03</idDisc>
+    <name>Документирование и сертификация</name>
+  </mdk>
+</dsFGOS>

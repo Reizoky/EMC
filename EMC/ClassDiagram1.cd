@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EMC.FormEditPM" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAABAACAAAAAAAACAAAACAAAAAAAACAAgQAAAAEA=</HashCode>
+      <FileName>05FormEditPM.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMC.ds" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ggApAAAFAwQAgApABAAIyCABAEgCQLsAAAASwJEABBA=</HashCode>
+      <FileName>ds.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMC.dsFGOS" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EEAoFAAAEwIABAJARAAMQCoQAAgiSBwCEAAAACEgBXA=</HashCode>
+      <FileName>dsFGOS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMC.FormCyclicCommissions" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACBDAAAACAAACAAAACAAAIAAAABAAQAAAAAAA=</HashCode>
+      <FileName>FormCyclicCommissions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMC.FormFGOS" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BuBwQpIkhDj5XcPJIoKlJCIToMgJcQCADVCoIAkBFa0=</HashCode>
+      <FileName>FormFGOS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMC.FormMain" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="2" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AYAaAA2YCCBAAAAAACCAQBAiQAgAQAoCACIABAAQAAA=</HashCode>
+      <FileName>FormMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMC.FormProgram">
+    <Position X="4" Y="3.25" Width="2.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Struct Name="EMC.FormProgram.ItemToTreb">
+        <Compartments>
+          <Compartment Name="Fields" Collapsed="true" />
+        </Compartments>
+        <TypeIdentifier>
+          <NewMemberFileName>FormProgram.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="EMC.FormProgram.ItemToResultTable">
+        <Compartments>
+          <Compartment Name="Fields" Collapsed="true" />
+        </Compartments>
+        <TypeIdentifier>
+          <NewMemberFileName>FormProgram.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>FwyVdGN0MbAZeRCYi0zKcI4KhSDACYEK9CwvYVwQDa0=</HashCode>
+      <FileName>FormProgram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMC.FormThemes">
+    <Position X="0.5" Y="3.25" Width="2.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>Xqt0e/+Wt7h+vevb8uSv9PMXYirEhY7zcXyHoLmRXu0=</HashCode>
+      <FileName>FormThemes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMC.Program" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMC.UpdateEvent" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMC.CallBackMy" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMC.Properties.Resources" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAQAABEAAAAQAEAAAEAAAAAgAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMC.Properties.Settings" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="EMC.Diap" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Diap.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
